@@ -1,0 +1,6523 @@
+{
+  "products": [
+    {
+      "product_id": "P0001",
+      "name": "At Max",
+      "description": "Evidence same pressure girl above statement nor by audience parent.",
+      "category": "Clothing",
+      "brand": "TechGear",
+      "price": 131.15,
+      "currency": "USD",
+      "stock": 9,
+      "images": [
+        "https://example.com/images/P0001_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0002",
+      "name": "Society Lite",
+      "description": "Prevent simple beat owner great energy oil budget mother.",
+      "category": "Shoes",
+      "brand": "FashionPro",
+      "price": 153.46,
+      "currency": "USD",
+      "stock": 169,
+      "images": [
+        "https://example.com/images/P0002_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0003",
+      "name": "Operation Edition",
+      "description": "Stock situation someone first agency message shoulder.",
+      "category": "Home",
+      "brand": "FashionPro",
+      "price": 27.2,
+      "currency": "USD",
+      "stock": 128,
+      "images": [
+        "https://example.com/images/P0003_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0004",
+      "name": "Value Pro",
+      "description": "Nearly cell real base price there activity popular owner seek.",
+      "category": "Sports",
+      "brand": "BookWorld",
+      "price": 254.64,
+      "currency": "USD",
+      "stock": 178,
+      "images": [
+        "https://example.com/images/P0004_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0005",
+      "name": "She Lite",
+      "description": "Kid develop tend free discover ok vote push.",
+      "category": "Home",
+      "brand": "TechGear",
+      "price": 391.08,
+      "currency": "USD",
+      "stock": 55,
+      "images": [
+        "https://example.com/images/P0005_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0006",
+      "name": "Organization Pro",
+      "description": "Pull customer room small how cell form.",
+      "category": "Accessories",
+      "brand": "TechGear",
+      "price": 175.11,
+      "currency": "USD",
+      "stock": 122,
+      "images": [
+        "https://example.com/images/P0006_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0007",
+      "name": "Bill Edition",
+      "description": "Alone worry sometimes increase rich fall site part game mouth.",
+      "category": "Home",
+      "brand": "MegaStore",
+      "price": 26.26,
+      "currency": "USD",
+      "stock": 107,
+      "images": [
+        "https://example.com/images/P0007_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0008",
+      "name": "Which Pro",
+      "description": "President parent early very with outside page.",
+      "category": "Accessories",
+      "brand": "FashionPro",
+      "price": 436.57,
+      "currency": "USD",
+      "stock": 189,
+      "images": [
+        "https://example.com/images/P0008_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0009",
+      "name": "Draw Max",
+      "description": "Author effort clear throughout always hair also who help individual share.",
+      "category": "Accessories",
+      "brand": "Sportify",
+      "price": 304.24,
+      "currency": "USD",
+      "stock": 59,
+      "images": [
+        "https://example.com/images/P0009_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0010",
+      "name": "Budget Lite",
+      "description": "Vote might blue thousand especially stuff between.",
+      "category": "Home",
+      "brand": "MegaStore",
+      "price": 485.98,
+      "currency": "USD",
+      "stock": 2,
+      "images": [
+        "https://example.com/images/P0010_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0011",
+      "name": "That Pro",
+      "description": "Here system on him improve bag evening admit site blue specific.",
+      "category": "Electronics",
+      "brand": "Sportify",
+      "price": 308.48,
+      "currency": "USD",
+      "stock": 75,
+      "images": [
+        "https://example.com/images/P0011_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0012",
+      "name": "Available Edition",
+      "description": "Matter talk girl dark idea of center.",
+      "category": "Books",
+      "brand": "FashionPro",
+      "price": 251.69,
+      "currency": "USD",
+      "stock": 164,
+      "images": [
+        "https://example.com/images/P0012_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0013",
+      "name": "Rise Lite",
+      "description": "Hear while member arm less to trip.",
+      "category": "Clothing",
+      "brand": "TechGear",
+      "price": 187.29,
+      "currency": "USD",
+      "stock": 68,
+      "images": [
+        "https://example.com/images/P0013_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0014",
+      "name": "Simply Edition",
+      "description": "Fill hour least within program doctor can machine special item and nice.",
+      "category": "Clothing",
+      "brand": "MegaStore",
+      "price": 162.83,
+      "currency": "USD",
+      "stock": 191,
+      "images": [
+        "https://example.com/images/P0014_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0015",
+      "name": "Early Lite",
+      "description": "Maybe model live interview natural then really quite.",
+      "category": "Accessories",
+      "brand": "Sportify",
+      "price": 61.14,
+      "currency": "USD",
+      "stock": 95,
+      "images": [
+        "https://example.com/images/P0015_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0016",
+      "name": "Car Edition",
+      "description": "Describe enough again decade important guess alone he marriage.",
+      "category": "Sports",
+      "brand": "MegaStore",
+      "price": 455.35,
+      "currency": "USD",
+      "stock": 75,
+      "images": [
+        "https://example.com/images/P0016_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0017",
+      "name": "Shoulder Pro",
+      "description": "Third house organization situation focus short.",
+      "category": "Accessories",
+      "brand": "Sportify",
+      "price": 300.37,
+      "currency": "USD",
+      "stock": 65,
+      "images": [
+        "https://example.com/images/P0017_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0018",
+      "name": "Speech Lite",
+      "description": "Ability effort total act kitchen service artist long role.",
+      "category": "Books",
+      "brand": "BrandX",
+      "price": 28.97,
+      "currency": "USD",
+      "stock": 106,
+      "images": [
+        "https://example.com/images/P0018_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0019",
+      "name": "Herself Max",
+      "description": "Room market be case pass model ahead new author adult.",
+      "category": "Books",
+      "brand": "MegaStore",
+      "price": 40.54,
+      "currency": "USD",
+      "stock": 99,
+      "images": [
+        "https://example.com/images/P0019_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0020",
+      "name": "To Max",
+      "description": "Half hotel hotel dark writer weight difficult million want.",
+      "category": "Sports",
+      "brand": "TechGear",
+      "price": 38.02,
+      "currency": "USD",
+      "stock": 2,
+      "images": [
+        "https://example.com/images/P0020_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0021",
+      "name": "Attack Edition",
+      "description": "Leave understand sense event industry standard.",
+      "category": "Books",
+      "brand": "MegaStore",
+      "price": 355.46,
+      "currency": "USD",
+      "stock": 139,
+      "images": [
+        "https://example.com/images/P0021_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0022",
+      "name": "Oil Max",
+      "description": "Stop money certain such home forward give boy already travel bank leave.",
+      "category": "Electronics",
+      "brand": "FashionPro",
+      "price": 74.89,
+      "currency": "USD",
+      "stock": 150,
+      "images": [
+        "https://example.com/images/P0022_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0023",
+      "name": "Send Max",
+      "description": "Follow speak each season there out area find.",
+      "category": "Clothing",
+      "brand": "TechGear",
+      "price": 229.85,
+      "currency": "USD",
+      "stock": 168,
+      "images": [
+        "https://example.com/images/P0023_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0024",
+      "name": "Treatment Pro",
+      "description": "Model I move return help sit sort finish.",
+      "category": "Sports",
+      "brand": "FashionPro",
+      "price": 438.26,
+      "currency": "USD",
+      "stock": 71,
+      "images": [
+        "https://example.com/images/P0024_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0025",
+      "name": "Free Max",
+      "description": "Glass interesting stand read relate outside indicate along eye face.",
+      "category": "Clothing",
+      "brand": "TechGear",
+      "price": 316.31,
+      "currency": "USD",
+      "stock": 28,
+      "images": [
+        "https://example.com/images/P0025_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0026",
+      "name": "Republican Max",
+      "description": "Change how seem a current effort policy color final his say perhaps teacher.",
+      "category": "Clothing",
+      "brand": "BrandX",
+      "price": 119.17,
+      "currency": "USD",
+      "stock": 37,
+      "images": [
+        "https://example.com/images/P0026_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0027",
+      "name": "Medical Edition",
+      "description": "Help bad for act deep find hope door last six mind drop.",
+      "category": "Shoes",
+      "brand": "BrandX",
+      "price": 166.96,
+      "currency": "USD",
+      "stock": 37,
+      "images": [
+        "https://example.com/images/P0027_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0028",
+      "name": "Hotel Pro",
+      "description": "Century poor trouble exactly traditional energy expert several vote major they.",
+      "category": "Shoes",
+      "brand": "BrandX",
+      "price": 288.14,
+      "currency": "USD",
+      "stock": 85,
+      "images": [
+        "https://example.com/images/P0028_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0029",
+      "name": "Sense Max",
+      "description": "From act word three lose community prevent.",
+      "category": "Sports",
+      "brand": "Sportify",
+      "price": 269.29,
+      "currency": "USD",
+      "stock": 27,
+      "images": [
+        "https://example.com/images/P0029_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0030",
+      "name": "Myself Max",
+      "description": "Also suffer protect remember vote strong involve record seven.",
+      "category": "Accessories",
+      "brand": "BookWorld",
+      "price": 190.35,
+      "currency": "USD",
+      "stock": 123,
+      "images": [
+        "https://example.com/images/P0030_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0031",
+      "name": "Knowledge Pro",
+      "description": "Similar travel region fly push rather.",
+      "category": "Accessories",
+      "brand": "MegaStore",
+      "price": 298.97,
+      "currency": "USD",
+      "stock": 159,
+      "images": [
+        "https://example.com/images/P0031_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0032",
+      "name": "Treatment Lite",
+      "description": "Least information long oil billion which idea continue billion former finally finally.",
+      "category": "Sports",
+      "brand": "FashionPro",
+      "price": 320.62,
+      "currency": "USD",
+      "stock": 76,
+      "images": [
+        "https://example.com/images/P0032_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0033",
+      "name": "Ago Edition",
+      "description": "Need public either carry middle physical bag.",
+      "category": "Shoes",
+      "brand": "BrandX",
+      "price": 7.75,
+      "currency": "USD",
+      "stock": 36,
+      "images": [
+        "https://example.com/images/P0033_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0034",
+      "name": "City Edition",
+      "description": "Individual value full least far now.",
+      "category": "Clothing",
+      "brand": "MegaStore",
+      "price": 13.66,
+      "currency": "USD",
+      "stock": 96,
+      "images": [
+        "https://example.com/images/P0034_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0035",
+      "name": "Short Edition",
+      "description": "These this move list hard thing professor across.",
+      "category": "Shoes",
+      "brand": "BrandX",
+      "price": 206.24,
+      "currency": "USD",
+      "stock": 9,
+      "images": [
+        "https://example.com/images/P0035_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0036",
+      "name": "Represent Edition",
+      "description": "Blood reflect available six among whose.",
+      "category": "Shoes",
+      "brand": "Sportify",
+      "price": 318.93,
+      "currency": "USD",
+      "stock": 175,
+      "images": [
+        "https://example.com/images/P0036_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0037",
+      "name": "Fight Edition",
+      "description": "Day school policy western we far western however mention staff.",
+      "category": "Shoes",
+      "brand": "Sportify",
+      "price": 293.36,
+      "currency": "USD",
+      "stock": 45,
+      "images": [
+        "https://example.com/images/P0037_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0038",
+      "name": "Yeah Max",
+      "description": "Run indicate live enter traditional good fly half shoulder.",
+      "category": "Electronics",
+      "brand": "FashionPro",
+      "price": 156.78,
+      "currency": "USD",
+      "stock": 196,
+      "images": [
+        "https://example.com/images/P0038_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0039",
+      "name": "Market Edition",
+      "description": "He long American board pick cultural say prove go but impact.",
+      "category": "Books",
+      "brand": "BookWorld",
+      "price": 97.92,
+      "currency": "USD",
+      "stock": 119,
+      "images": [
+        "https://example.com/images/P0039_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0040",
+      "name": "Sense Lite",
+      "description": "Part because traditional treatment environmental now fill.",
+      "category": "Books",
+      "brand": "FashionPro",
+      "price": 47.14,
+      "currency": "USD",
+      "stock": 26,
+      "images": [
+        "https://example.com/images/P0040_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0041",
+      "name": "Glass Pro",
+      "description": "Watch dream south agreement recognize increase join soldier us east loss very successful.",
+      "category": "Shoes",
+      "brand": "BookWorld",
+      "price": 471.19,
+      "currency": "USD",
+      "stock": 60,
+      "images": [
+        "https://example.com/images/P0041_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0042",
+      "name": "Pay Lite",
+      "description": "Scientist last he claim from every.",
+      "category": "Accessories",
+      "brand": "FashionPro",
+      "price": 45.5,
+      "currency": "USD",
+      "stock": 36,
+      "images": [
+        "https://example.com/images/P0042_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0043",
+      "name": "Charge Lite",
+      "description": "Several fish election maintain have help wide western.",
+      "category": "Books",
+      "brand": "FashionPro",
+      "price": 383.28,
+      "currency": "USD",
+      "stock": 161,
+      "images": [
+        "https://example.com/images/P0043_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0044",
+      "name": "That Max",
+      "description": "Car focus population form maybe natural collection southern interesting individual our for prepare.",
+      "category": "Home",
+      "brand": "TechGear",
+      "price": 481.05,
+      "currency": "USD",
+      "stock": 87,
+      "images": [
+        "https://example.com/images/P0044_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0045",
+      "name": "Style Max",
+      "description": "Scene do open several lot process those.",
+      "category": "Shoes",
+      "brand": "BrandX",
+      "price": 29.56,
+      "currency": "USD",
+      "stock": 93,
+      "images": [
+        "https://example.com/images/P0045_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0046",
+      "name": "Government Max",
+      "description": "Cost summer part pattern while word knowledge loss rule community join change beat.",
+      "category": "Sports",
+      "brand": "FashionPro",
+      "price": 361.03,
+      "currency": "USD",
+      "stock": 185,
+      "images": [
+        "https://example.com/images/P0046_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0047",
+      "name": "Also Edition",
+      "description": "Word down his same thought share health direction short meet trip view.",
+      "category": "Books",
+      "brand": "BookWorld",
+      "price": 82.71,
+      "currency": "USD",
+      "stock": 14,
+      "images": [
+        "https://example.com/images/P0047_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0048",
+      "name": "Hair Edition",
+      "description": "History his care must off bring the.",
+      "category": "Accessories",
+      "brand": "FashionPro",
+      "price": 304.39,
+      "currency": "USD",
+      "stock": 58,
+      "images": [
+        "https://example.com/images/P0048_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0049",
+      "name": "Can Pro",
+      "description": "Girl still read probably thing interview particularly region summer light.",
+      "category": "Home",
+      "brand": "FashionPro",
+      "price": 27.52,
+      "currency": "USD",
+      "stock": 39,
+      "images": [
+        "https://example.com/images/P0049_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0050",
+      "name": "Sit Max",
+      "description": "Have discuss soldier kind past name court region need play.",
+      "category": "Electronics",
+      "brand": "Sportify",
+      "price": 344.19,
+      "currency": "USD",
+      "stock": 97,
+      "images": [
+        "https://example.com/images/P0050_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0051",
+      "name": "No Max",
+      "description": "Themselves general film when choice inside maybe them.",
+      "category": "Books",
+      "brand": "BookWorld",
+      "price": 326.07,
+      "currency": "USD",
+      "stock": 192,
+      "images": [
+        "https://example.com/images/P0051_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0052",
+      "name": "Another Lite",
+      "description": "View clear everyone herself include factor yes performance whether.",
+      "category": "Accessories",
+      "brand": "BrandX",
+      "price": 204.32,
+      "currency": "USD",
+      "stock": 39,
+      "images": [
+        "https://example.com/images/P0052_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0053",
+      "name": "Since Max",
+      "description": "Theory officer may Congress myself time buy idea decision set decision exactly popular.",
+      "category": "Sports",
+      "brand": "BrandX",
+      "price": 327.24,
+      "currency": "USD",
+      "stock": 118,
+      "images": [
+        "https://example.com/images/P0053_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0054",
+      "name": "Worker Pro",
+      "description": "Set everybody two agreement represent brother.",
+      "category": "Clothing",
+      "brand": "BookWorld",
+      "price": 439.95,
+      "currency": "USD",
+      "stock": 177,
+      "images": [
+        "https://example.com/images/P0054_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0055",
+      "name": "Put Lite",
+      "description": "Six fly six avoid main account enough institution.",
+      "category": "Electronics",
+      "brand": "BookWorld",
+      "price": 310.51,
+      "currency": "USD",
+      "stock": 195,
+      "images": [
+        "https://example.com/images/P0055_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0056",
+      "name": "Dream Pro",
+      "description": "Party election card whole deal interview stand impact know.",
+      "category": "Sports",
+      "brand": "Sportify",
+      "price": 450.4,
+      "currency": "USD",
+      "stock": 57,
+      "images": [
+        "https://example.com/images/P0056_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0057",
+      "name": "Fill Edition",
+      "description": "Citizen nice lay grow long talk.",
+      "category": "Home",
+      "brand": "BookWorld",
+      "price": 138.02,
+      "currency": "USD",
+      "stock": 200,
+      "images": [
+        "https://example.com/images/P0057_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0058",
+      "name": "You Lite",
+      "description": "Probably interesting time building similar woman little doctor.",
+      "category": "Shoes",
+      "brand": "TechGear",
+      "price": 273.24,
+      "currency": "USD",
+      "stock": 191,
+      "images": [
+        "https://example.com/images/P0058_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0059",
+      "name": "Every Lite",
+      "description": "Always call most identify from seem baby sell message world interview sound.",
+      "category": "Shoes",
+      "brand": "Sportify",
+      "price": 411.0,
+      "currency": "USD",
+      "stock": 149,
+      "images": [
+        "https://example.com/images/P0059_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0060",
+      "name": "Mean Max",
+      "description": "Sense wall place now relate prepare herself east travel.",
+      "category": "Shoes",
+      "brand": "TechGear",
+      "price": 491.79,
+      "currency": "USD",
+      "stock": 129,
+      "images": [
+        "https://example.com/images/P0060_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0061",
+      "name": "She Max",
+      "description": "Economy professor team read public action join.",
+      "category": "Shoes",
+      "brand": "FashionPro",
+      "price": 319.96,
+      "currency": "USD",
+      "stock": 123,
+      "images": [
+        "https://example.com/images/P0061_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0062",
+      "name": "Law Edition",
+      "description": "Risk environment wall fish player amount difference time card.",
+      "category": "Accessories",
+      "brand": "TechGear",
+      "price": 267.12,
+      "currency": "USD",
+      "stock": 100,
+      "images": [
+        "https://example.com/images/P0062_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0063",
+      "name": "Oil Max",
+      "description": "Ground pretty matter spring weight nice require likely.",
+      "category": "Electronics",
+      "brand": "FashionPro",
+      "price": 415.6,
+      "currency": "USD",
+      "stock": 63,
+      "images": [
+        "https://example.com/images/P0063_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0064",
+      "name": "Fire Edition",
+      "description": "Understand business past present whether within radio.",
+      "category": "Shoes",
+      "brand": "FashionPro",
+      "price": 427.41,
+      "currency": "USD",
+      "stock": 48,
+      "images": [
+        "https://example.com/images/P0064_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0065",
+      "name": "Others Edition",
+      "description": "Next within crime age black marriage very money project.",
+      "category": "Sports",
+      "brand": "BookWorld",
+      "price": 44.39,
+      "currency": "USD",
+      "stock": 189,
+      "images": [
+        "https://example.com/images/P0065_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0066",
+      "name": "Range Lite",
+      "description": "Model reflect suffer best matter power land million.",
+      "category": "Electronics",
+      "brand": "BookWorld",
+      "price": 343.98,
+      "currency": "USD",
+      "stock": 113,
+      "images": [
+        "https://example.com/images/P0066_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0067",
+      "name": "Sometimes Lite",
+      "description": "Join effect nice board key claim population part change group board.",
+      "category": "Clothing",
+      "brand": "MegaStore",
+      "price": 193.34,
+      "currency": "USD",
+      "stock": 148,
+      "images": [
+        "https://example.com/images/P0067_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0068",
+      "name": "After Pro",
+      "description": "Lead ability assume assume no particular fly that federal.",
+      "category": "Accessories",
+      "brand": "BrandX",
+      "price": 352.16,
+      "currency": "USD",
+      "stock": 58,
+      "images": [
+        "https://example.com/images/P0068_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0069",
+      "name": "Section Pro",
+      "description": "Management through lead ball hot stand soon benefit dog realize rule ready house.",
+      "category": "Shoes",
+      "brand": "Sportify",
+      "price": 393.01,
+      "currency": "USD",
+      "stock": 111,
+      "images": [
+        "https://example.com/images/P0069_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0070",
+      "name": "Will Pro",
+      "description": "Human college trial down beat by sit stay.",
+      "category": "Home",
+      "brand": "BrandX",
+      "price": 186.2,
+      "currency": "USD",
+      "stock": 24,
+      "images": [
+        "https://example.com/images/P0070_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0071",
+      "name": "Develop Pro",
+      "description": "Amount focus least space receive return after spend prove.",
+      "category": "Electronics",
+      "brand": "TechGear",
+      "price": 71.03,
+      "currency": "USD",
+      "stock": 187,
+      "images": [
+        "https://example.com/images/P0071_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0072",
+      "name": "Soon Pro",
+      "description": "Threat party then idea entire pick wonder together person foot stock exactly.",
+      "category": "Electronics",
+      "brand": "TechGear",
+      "price": 182.5,
+      "currency": "USD",
+      "stock": 125,
+      "images": [
+        "https://example.com/images/P0072_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0073",
+      "name": "Serve Lite",
+      "description": "Blue parent word war thus city language.",
+      "category": "Sports",
+      "brand": "TechGear",
+      "price": 262.06,
+      "currency": "USD",
+      "stock": 28,
+      "images": [
+        "https://example.com/images/P0073_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0074",
+      "name": "Foot Lite",
+      "description": "Behavior but foreign line history what party.",
+      "category": "Shoes",
+      "brand": "FashionPro",
+      "price": 193.84,
+      "currency": "USD",
+      "stock": 15,
+      "images": [
+        "https://example.com/images/P0074_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0075",
+      "name": "Development Pro",
+      "description": "Accept modern win Republican economic need country.",
+      "category": "Accessories",
+      "brand": "MegaStore",
+      "price": 430.88,
+      "currency": "USD",
+      "stock": 11,
+      "images": [
+        "https://example.com/images/P0075_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0076",
+      "name": "Task Pro",
+      "description": "Growth finally system since generation seat arm.",
+      "category": "Sports",
+      "brand": "FashionPro",
+      "price": 185.88,
+      "currency": "USD",
+      "stock": 195,
+      "images": [
+        "https://example.com/images/P0076_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0077",
+      "name": "Piece Pro",
+      "description": "Never order tend miss second drop wide yet hair least herself.",
+      "category": "Electronics",
+      "brand": "TechGear",
+      "price": 384.23,
+      "currency": "USD",
+      "stock": 37,
+      "images": [
+        "https://example.com/images/P0077_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0078",
+      "name": "During Lite",
+      "description": "Summer language bill south individual late along wish enough manager.",
+      "category": "Clothing",
+      "brand": "MegaStore",
+      "price": 140.94,
+      "currency": "USD",
+      "stock": 22,
+      "images": [
+        "https://example.com/images/P0078_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0079",
+      "name": "Stuff Pro",
+      "description": "Human company many send goal kind right film task.",
+      "category": "Home",
+      "brand": "BookWorld",
+      "price": 380.41,
+      "currency": "USD",
+      "stock": 61,
+      "images": [
+        "https://example.com/images/P0079_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0080",
+      "name": "Part Edition",
+      "description": "Officer maybe whom half government it reason fire amount company raise.",
+      "category": "Shoes",
+      "brand": "BrandX",
+      "price": 435.48,
+      "currency": "USD",
+      "stock": 29,
+      "images": [
+        "https://example.com/images/P0080_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0081",
+      "name": "Whatever Edition",
+      "description": "Spend scene student stock page side.",
+      "category": "Sports",
+      "brand": "FashionPro",
+      "price": 53.17,
+      "currency": "USD",
+      "stock": 47,
+      "images": [
+        "https://example.com/images/P0081_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0082",
+      "name": "Tree Lite",
+      "description": "He Mr in be election job public central partner.",
+      "category": "Sports",
+      "brand": "MegaStore",
+      "price": 342.09,
+      "currency": "USD",
+      "stock": 43,
+      "images": [
+        "https://example.com/images/P0082_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0083",
+      "name": "For Max",
+      "description": "Management kitchen rest part specific certainly save hour once day truth them voice.",
+      "category": "Sports",
+      "brand": "TechGear",
+      "price": 372.24,
+      "currency": "USD",
+      "stock": 44,
+      "images": [
+        "https://example.com/images/P0083_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0084",
+      "name": "Development Lite",
+      "description": "Understand out subject know camera song war action heart fish.",
+      "category": "Books",
+      "brand": "TechGear",
+      "price": 317.4,
+      "currency": "USD",
+      "stock": 177,
+      "images": [
+        "https://example.com/images/P0084_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0085",
+      "name": "Reduce Pro",
+      "description": "Word whatever I know very hot land rest see simple into management concern.",
+      "category": "Accessories",
+      "brand": "BrandX",
+      "price": 258.5,
+      "currency": "USD",
+      "stock": 48,
+      "images": [
+        "https://example.com/images/P0085_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0086",
+      "name": "Great Lite",
+      "description": "Role investment family note which stop wife who politics provide significant.",
+      "category": "Home",
+      "brand": "FashionPro",
+      "price": 21.9,
+      "currency": "USD",
+      "stock": 165,
+      "images": [
+        "https://example.com/images/P0086_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0087",
+      "name": "Challenge Lite",
+      "description": "Interesting themselves thank might until former say boy positive so property husband.",
+      "category": "Books",
+      "brand": "Sportify",
+      "price": 336.62,
+      "currency": "USD",
+      "stock": 22,
+      "images": [
+        "https://example.com/images/P0087_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0088",
+      "name": "Production Edition",
+      "description": "City own model pretty my statement from.",
+      "category": "Shoes",
+      "brand": "BrandX",
+      "price": 315.78,
+      "currency": "USD",
+      "stock": 62,
+      "images": [
+        "https://example.com/images/P0088_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0089",
+      "name": "Yard Edition",
+      "description": "Admit street special scene save man call pick significant back blood.",
+      "category": "Sports",
+      "brand": "TechGear",
+      "price": 447.54,
+      "currency": "USD",
+      "stock": 106,
+      "images": [
+        "https://example.com/images/P0089_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0090",
+      "name": "Appear Edition",
+      "description": "Month west tax call human possible paper standard operation head cause.",
+      "category": "Shoes",
+      "brand": "BrandX",
+      "price": 99.05,
+      "currency": "USD",
+      "stock": 9,
+      "images": [
+        "https://example.com/images/P0090_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0091",
+      "name": "Inside Edition",
+      "description": "Gun cover remember when whatever choice ball recent serve.",
+      "category": "Shoes",
+      "brand": "FashionPro",
+      "price": 248.23,
+      "currency": "USD",
+      "stock": 1,
+      "images": [
+        "https://example.com/images/P0091_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0092",
+      "name": "Avoid Lite",
+      "description": "Drop word recent wear before return girl technology group him within thing.",
+      "category": "Clothing",
+      "brand": "TechGear",
+      "price": 314.55,
+      "currency": "USD",
+      "stock": 134,
+      "images": [
+        "https://example.com/images/P0092_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0093",
+      "name": "Those Pro",
+      "description": "Explain organization they treat accept suffer reality clearly wide assume seven next.",
+      "category": "Home",
+      "brand": "TechGear",
+      "price": 391.82,
+      "currency": "USD",
+      "stock": 157,
+      "images": [
+        "https://example.com/images/P0093_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0094",
+      "name": "Interesting Max",
+      "description": "Own ask peace society fear write game run response several treat answer.",
+      "category": "Electronics",
+      "brand": "MegaStore",
+      "price": 455.34,
+      "currency": "USD",
+      "stock": 133,
+      "images": [
+        "https://example.com/images/P0094_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0095",
+      "name": "Loss Edition",
+      "description": "Likely easy watch president player region image only.",
+      "category": "Home",
+      "brand": "BrandX",
+      "price": 323.91,
+      "currency": "USD",
+      "stock": 16,
+      "images": [
+        "https://example.com/images/P0095_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0096",
+      "name": "Ask Pro",
+      "description": "Fill certain process young civil view seek.",
+      "category": "Electronics",
+      "brand": "BookWorld",
+      "price": 280.98,
+      "currency": "USD",
+      "stock": 176,
+      "images": [
+        "https://example.com/images/P0096_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0097",
+      "name": "Almost Lite",
+      "description": "Indicate call attention brother plan finish daughter bed material least several chair indeed.",
+      "category": "Sports",
+      "brand": "BookWorld",
+      "price": 385.88,
+      "currency": "USD",
+      "stock": 151,
+      "images": [
+        "https://example.com/images/P0097_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0098",
+      "name": "Official Lite",
+      "description": "Me third country family position growth factor leg account throughout watch if.",
+      "category": "Sports",
+      "brand": "TechGear",
+      "price": 235.05,
+      "currency": "USD",
+      "stock": 197,
+      "images": [
+        "https://example.com/images/P0098_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0099",
+      "name": "Toward Lite",
+      "description": "Since fire good bed little care under similar college city above focus growth.",
+      "category": "Books",
+      "brand": "Sportify",
+      "price": 322.66,
+      "currency": "USD",
+      "stock": 60,
+      "images": [
+        "https://example.com/images/P0099_1.jpg"
+      ]
+    },
+    {
+      "product_id": "P0100",
+      "name": "Chance Max",
+      "description": "War design month chair tree break.",
+      "category": "Electronics",
+      "brand": "FashionPro",
+      "price": 227.27,
+      "currency": "USD",
+      "stock": 24,
+      "images": [
+        "https://example.com/images/P0100_1.jpg"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "user_id": "U0001",
+      "name": "Alyssa Mitchell",
+      "email": "hmoore@gmail.com",
+      "address": {
+        "street": "86078 Eddie Stravenue",
+        "city": "Emmastad",
+        "country": "Botswana",
+        "zip": "82585"
+      }
+    },
+    {
+      "user_id": "U0002",
+      "name": "Jennifer Jones",
+      "email": "bradley66@yahoo.com",
+      "address": {
+        "street": "842 Bennett Rapids",
+        "city": "New Anthony",
+        "country": "Suriname",
+        "zip": "96947"
+      }
+    },
+    {
+      "user_id": "U0003",
+      "name": "Jacqueline Gonzales",
+      "email": "twilliams@hotmail.com",
+      "address": {
+        "street": "57121 Hunt Common",
+        "city": "Dawnhaven",
+        "country": "Qatar",
+        "zip": "75136"
+      }
+    },
+    {
+      "user_id": "U0004",
+      "name": "Brandy Pearson",
+      "email": "croberts@yahoo.com",
+      "address": {
+        "street": "6156 Justin Ports Suite 702",
+        "city": "Marcuschester",
+        "country": "Colombia",
+        "zip": "23518"
+      }
+    },
+    {
+      "user_id": "U0005",
+      "name": "Sharon Rivera",
+      "email": "oliverwillie@yahoo.com",
+      "address": {
+        "street": "9458 Morton Brooks Apt. 671",
+        "city": "Jamesshire",
+        "country": "Lithuania",
+        "zip": "23645"
+      }
+    },
+    {
+      "user_id": "U0006",
+      "name": "Tammy Dixon",
+      "email": "brandi41@henry.com",
+      "address": {
+        "street": "3831 Anderson Garden Suite 172",
+        "city": "Meaganhaven",
+        "country": "Nigeria",
+        "zip": "43906"
+      }
+    },
+    {
+      "user_id": "U0007",
+      "name": "Julia Jackson",
+      "email": "lcampbell@clark.com",
+      "address": {
+        "street": "9708 Brooks Prairie Apt. 699",
+        "city": "East Jeffrey",
+        "country": "Sudan",
+        "zip": "37588"
+      }
+    },
+    {
+      "user_id": "U0008",
+      "name": "Christina Delgado",
+      "email": "kimberly69@gmail.com",
+      "address": {
+        "street": "9063 Nguyen Underpass Suite 734",
+        "city": "Stephenton",
+        "country": "Indonesia",
+        "zip": "90439"
+      }
+    },
+    {
+      "user_id": "U0009",
+      "name": "John Davis",
+      "email": "solomonkevin@gmail.com",
+      "address": {
+        "street": "02707 Murphy Turnpike",
+        "city": "Lake Garyhaven",
+        "country": "Trinidad and Tobago",
+        "zip": "00680"
+      }
+    },
+    {
+      "user_id": "U0010",
+      "name": "Jeff Smith",
+      "email": "sheltongary@anthony.net",
+      "address": {
+        "street": "857 David Burg",
+        "city": "Klinefort",
+        "country": "Turks and Caicos Islands",
+        "zip": "12482"
+      }
+    },
+    {
+      "user_id": "U0011",
+      "name": "Phillip Munoz MD",
+      "email": "hoffmanjustin@hotmail.com",
+      "address": {
+        "street": "97039 Brian Knoll",
+        "city": "Annehaven",
+        "country": "Cote d'Ivoire",
+        "zip": "90518"
+      }
+    },
+    {
+      "user_id": "U0012",
+      "name": "Suzanne James",
+      "email": "tara37@hayes.biz",
+      "address": {
+        "street": "07932 Perry Wells",
+        "city": "East Savannah",
+        "country": "United States of America",
+        "zip": "20181"
+      }
+    },
+    {
+      "user_id": "U0013",
+      "name": "Vanessa Wilson",
+      "email": "alex25@norman-pennington.com",
+      "address": {
+        "street": "46165 Willis Ridge",
+        "city": "New Jessicatown",
+        "country": "Oman",
+        "zip": "90419"
+      }
+    },
+    {
+      "user_id": "U0014",
+      "name": "Karen Henderson",
+      "email": "amandajenkins@roberson-wilson.com",
+      "address": {
+        "street": "674 Keith Crest Suite 955",
+        "city": "Cooperview",
+        "country": "Micronesia",
+        "zip": "04984"
+      }
+    },
+    {
+      "user_id": "U0015",
+      "name": "Shannon Escobar",
+      "email": "carolineperez@clark.com",
+      "address": {
+        "street": "1149 Francis Crossing",
+        "city": "East Amy",
+        "country": "Benin",
+        "zip": "18678"
+      }
+    },
+    {
+      "user_id": "U0016",
+      "name": "Angelica Smith",
+      "email": "smithrachel@french.com",
+      "address": {
+        "street": "284 Brittney Junctions",
+        "city": "South Christina",
+        "country": "British Virgin Islands",
+        "zip": "64381"
+      }
+    },
+    {
+      "user_id": "U0017",
+      "name": "Elizabeth Carson",
+      "email": "melindaherman@gmail.com",
+      "address": {
+        "street": "27631 Austin Street Suite 698",
+        "city": "Millerland",
+        "country": "Ukraine",
+        "zip": "44174"
+      }
+    },
+    {
+      "user_id": "U0018",
+      "name": "Kelly Williams",
+      "email": "jeffersonstephen@brown-williams.com",
+      "address": {
+        "street": "0317 Katie Roads Apt. 156",
+        "city": "West Vincentville",
+        "country": "Western Sahara",
+        "zip": "79641"
+      }
+    },
+    {
+      "user_id": "U0019",
+      "name": "Heather Potts",
+      "email": "alexandriajohnson@hernandez.org",
+      "address": {
+        "street": "310 Ramsey Passage Apt. 781",
+        "city": "North Cathy",
+        "country": "Benin",
+        "zip": "42375"
+      }
+    },
+    {
+      "user_id": "U0020",
+      "name": "Maureen Baird",
+      "email": "wturner@hotmail.com",
+      "address": {
+        "street": "4773 Larson Isle",
+        "city": "New Matthewborough",
+        "country": "British Indian Ocean Territory (Chagos Archipelago)",
+        "zip": "80042"
+      }
+    },
+    {
+      "user_id": "U0021",
+      "name": "Melinda Contreras",
+      "email": "gflores@hawkins.com",
+      "address": {
+        "street": "63687 Victoria Parks",
+        "city": "West Jamesshire",
+        "country": "Morocco",
+        "zip": "69823"
+      }
+    },
+    {
+      "user_id": "U0022",
+      "name": "Luis Curry",
+      "email": "wpalmer@gmail.com",
+      "address": {
+        "street": "4813 Mcdonald Mount",
+        "city": "Port Linda",
+        "country": "Bosnia and Herzegovina",
+        "zip": "10797"
+      }
+    },
+    {
+      "user_id": "U0023",
+      "name": "Jared Hays MD",
+      "email": "xchavez@harrington.com",
+      "address": {
+        "street": "531 Singh Rest",
+        "city": "Grossburgh",
+        "country": "Central African Republic",
+        "zip": "02261"
+      }
+    },
+    {
+      "user_id": "U0024",
+      "name": "Tara Austin",
+      "email": "whuber@thomas.com",
+      "address": {
+        "street": "20970 Joshua Run Apt. 908",
+        "city": "Tranchester",
+        "country": "Guam",
+        "zip": "35095"
+      }
+    },
+    {
+      "user_id": "U0025",
+      "name": "Mr. Scott Price",
+      "email": "longdavid@hoover.org",
+      "address": {
+        "street": "8681 Kirby Valley Suite 950",
+        "city": "Christopherside",
+        "country": "Djibouti",
+        "zip": "30420"
+      }
+    },
+    {
+      "user_id": "U0026",
+      "name": "Richard Escobar",
+      "email": "tperkins@phillips-mueller.org",
+      "address": {
+        "street": "343 Kevin Station Apt. 545",
+        "city": "Orozcoside",
+        "country": "Lithuania",
+        "zip": "42417"
+      }
+    },
+    {
+      "user_id": "U0027",
+      "name": "Amy Saunders",
+      "email": "iadams@eaton-burke.com",
+      "address": {
+        "street": "9493 Luis Trail Apt. 544",
+        "city": "West Theresaport",
+        "country": "Djibouti",
+        "zip": "71074"
+      }
+    },
+    {
+      "user_id": "U0028",
+      "name": "Brenda Phillips",
+      "email": "christianrobles@wiley.com",
+      "address": {
+        "street": "6258 Darrell Mall",
+        "city": "East Natalie",
+        "country": "Reunion",
+        "zip": "62019"
+      }
+    },
+    {
+      "user_id": "U0029",
+      "name": "Misty Mejia",
+      "email": "gwells@lewis.com",
+      "address": {
+        "street": "696 Michelle Lodge",
+        "city": "North Donaldmouth",
+        "country": "Swaziland",
+        "zip": "57078"
+      }
+    },
+    {
+      "user_id": "U0030",
+      "name": "Kristina Simpson",
+      "email": "dyerandrew@gmail.com",
+      "address": {
+        "street": "7052 Williams Skyway",
+        "city": "East Amberside",
+        "country": "Macao",
+        "zip": "59527"
+      }
+    },
+    {
+      "user_id": "U0031",
+      "name": "Brittany Salazar",
+      "email": "caseyharris@torres.org",
+      "address": {
+        "street": "03081 Linda Islands",
+        "city": "Dunnshire",
+        "country": "Angola",
+        "zip": "68572"
+      }
+    },
+    {
+      "user_id": "U0032",
+      "name": "Kevin Ramirez",
+      "email": "durantanya@gmail.com",
+      "address": {
+        "street": "50652 Jackson Park",
+        "city": "Kevinport",
+        "country": "Malta",
+        "zip": "84536"
+      }
+    },
+    {
+      "user_id": "U0033",
+      "name": "Wanda Lambert",
+      "email": "mdixon@bell-juarez.com",
+      "address": {
+        "street": "591 Michelle Branch",
+        "city": "Stewartfurt",
+        "country": "Tajikistan",
+        "zip": "66870"
+      }
+    },
+    {
+      "user_id": "U0034",
+      "name": "Omar Hurst MD",
+      "email": "charles45@drake-tucker.biz",
+      "address": {
+        "street": "9138 Barrett Overpass Suite 834",
+        "city": "Bakerburgh",
+        "country": "Liechtenstein",
+        "zip": "81240"
+      }
+    },
+    {
+      "user_id": "U0035",
+      "name": "Mr. Herbert Anderson",
+      "email": "joseroach@yahoo.com",
+      "address": {
+        "street": "11446 Mckee Estate",
+        "city": "Katelyntown",
+        "country": "Western Sahara",
+        "zip": "26128"
+      }
+    },
+    {
+      "user_id": "U0036",
+      "name": "Amber Rich",
+      "email": "austinrogers@gmail.com",
+      "address": {
+        "street": "56523 Christopher Knoll",
+        "city": "Port Melissa",
+        "country": "Saint Barthelemy",
+        "zip": "43318"
+      }
+    },
+    {
+      "user_id": "U0037",
+      "name": "Brian Mills",
+      "email": "richardsdominic@vargas.biz",
+      "address": {
+        "street": "11658 Melissa Island Suite 629",
+        "city": "New Carol",
+        "country": "Tokelau",
+        "zip": "53854"
+      }
+    },
+    {
+      "user_id": "U0038",
+      "name": "Kevin Lopez",
+      "email": "sanchezlisa@yahoo.com",
+      "address": {
+        "street": "09830 Timothy Mountain Apt. 799",
+        "city": "Thompsonhaven",
+        "country": "France",
+        "zip": "85797"
+      }
+    },
+    {
+      "user_id": "U0039",
+      "name": "Brenda Hampton",
+      "email": "marknguyen@young.info",
+      "address": {
+        "street": "780 Philip Streets",
+        "city": "Troyburgh",
+        "country": "Nepal",
+        "zip": "21432"
+      }
+    },
+    {
+      "user_id": "U0040",
+      "name": "Jonathan Webb",
+      "email": "kathygreen@gmail.com",
+      "address": {
+        "street": "930 Sara Stream",
+        "city": "Christopherside",
+        "country": "Liberia",
+        "zip": "48141"
+      }
+    },
+    {
+      "user_id": "U0041",
+      "name": "Todd Mckinney",
+      "email": "lonnie09@weeks.net",
+      "address": {
+        "street": "216 Yu Lodge",
+        "city": "South Cynthiaside",
+        "country": "Finland",
+        "zip": "51192"
+      }
+    },
+    {
+      "user_id": "U0042",
+      "name": "Natalie Ramirez",
+      "email": "charles22@gmail.com",
+      "address": {
+        "street": "98017 Parker Views Apt. 661",
+        "city": "West Erikfurt",
+        "country": "New Zealand",
+        "zip": "46299"
+      }
+    },
+    {
+      "user_id": "U0043",
+      "name": "Ethan Hernandez",
+      "email": "kelleykelly@smith.com",
+      "address": {
+        "street": "732 Donna Row Suite 079",
+        "city": "Port Jasonhaven",
+        "country": "Japan",
+        "zip": "28118"
+      }
+    },
+    {
+      "user_id": "U0044",
+      "name": "Melissa Cooper",
+      "email": "franciscogarcia@gmail.com",
+      "address": {
+        "street": "223 Michelle Locks",
+        "city": "New Patricia",
+        "country": "Guam",
+        "zip": "56150"
+      }
+    },
+    {
+      "user_id": "U0045",
+      "name": "Jason Lewis",
+      "email": "huynhdonald@crawford-johnson.com",
+      "address": {
+        "street": "970 Ronald Glen Suite 522",
+        "city": "Port Jonathanville",
+        "country": "Mozambique",
+        "zip": "84090"
+      }
+    },
+    {
+      "user_id": "U0046",
+      "name": "Phillip Fox",
+      "email": "pbennett@hotmail.com",
+      "address": {
+        "street": "852 Robert Meadow Apt. 872",
+        "city": "Danielport",
+        "country": "Guernsey",
+        "zip": "79161"
+      }
+    },
+    {
+      "user_id": "U0047",
+      "name": "Robert Sutton",
+      "email": "david09@young-anderson.com",
+      "address": {
+        "street": "181 Johnson Fork",
+        "city": "Jasminehaven",
+        "country": "Mauritius",
+        "zip": "07642"
+      }
+    },
+    {
+      "user_id": "U0048",
+      "name": "Michael Porter",
+      "email": "imurphy@gmail.com",
+      "address": {
+        "street": "2164 Hawkins Trafficway Suite 508",
+        "city": "West Richardfort",
+        "country": "Andorra",
+        "zip": "77411"
+      }
+    },
+    {
+      "user_id": "U0049",
+      "name": "Christopher Mclean",
+      "email": "garciasarah@powell.com",
+      "address": {
+        "street": "11109 Watson Run",
+        "city": "West Derrick",
+        "country": "Sao Tome and Principe",
+        "zip": "16021"
+      }
+    },
+    {
+      "user_id": "U0050",
+      "name": "Julie Morales",
+      "email": "vlopez@gmail.com",
+      "address": {
+        "street": "81478 Burgess Drive Apt. 090",
+        "city": "Lake Kathleenhaven",
+        "country": "Timor-Leste",
+        "zip": "20394"
+      }
+    }
+  ],
+  "orders": [
+    {
+      "order_id": "O0001",
+      "user_id": "U0011",
+      "order_date": "2025-08-13 08:59:29",
+      "items": [
+        {
+          "product_id": "P0045",
+          "quantity": 1,
+          "unit_price": 29.56
+        },
+        {
+          "product_id": "P0087",
+          "quantity": 2,
+          "unit_price": 336.62
+        }
+      ],
+      "shipping_cost": 4.98,
+      "tax": 49.2,
+      "total_amount": 756.98,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0002",
+      "user_id": "U0038",
+      "order_date": "2025-05-08 07:09:01",
+      "items": [
+        {
+          "product_id": "P0069",
+          "quantity": 3,
+          "unit_price": 393.01
+        }
+      ],
+      "shipping_cost": 5.24,
+      "tax": 82.53,
+      "total_amount": 1266.8,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0003",
+      "user_id": "U0037",
+      "order_date": "2025-06-19 22:43:26",
+      "items": [
+        {
+          "product_id": "P0019",
+          "quantity": 1,
+          "unit_price": 40.54
+        },
+        {
+          "product_id": "P0046",
+          "quantity": 1,
+          "unit_price": 361.03
+        },
+        {
+          "product_id": "P0020",
+          "quantity": 2,
+          "unit_price": 38.02
+        },
+        {
+          "product_id": "P0054",
+          "quantity": 2,
+          "unit_price": 439.95
+        }
+      ],
+      "shipping_cost": 10.4,
+      "tax": 95.03,
+      "total_amount": 1462.94,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0004",
+      "user_id": "U0033",
+      "order_date": "2025-04-04 01:05:52",
+      "items": [
+        {
+          "product_id": "P0023",
+          "quantity": 2,
+          "unit_price": 229.85
+        }
+      ],
+      "shipping_cost": 3.26,
+      "tax": 32.18,
+      "total_amount": 495.14,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0005",
+      "user_id": "U0012",
+      "order_date": "2025-04-11 04:05:01",
+      "items": [
+        {
+          "product_id": "P0027",
+          "quantity": 2,
+          "unit_price": 166.96
+        },
+        {
+          "product_id": "P0100",
+          "quantity": 1,
+          "unit_price": 227.27
+        },
+        {
+          "product_id": "P0100",
+          "quantity": 3,
+          "unit_price": 227.27
+        }
+      ],
+      "shipping_cost": 10.63,
+      "tax": 87.01,
+      "total_amount": 1340.64,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0006",
+      "user_id": "U0003",
+      "order_date": "2025-03-26 05:51:24",
+      "items": [
+        {
+          "product_id": "P0065",
+          "quantity": 1,
+          "unit_price": 44.39
+        }
+      ],
+      "shipping_cost": 14.54,
+      "tax": 3.11,
+      "total_amount": 62.04,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0007",
+      "user_id": "U0006",
+      "order_date": "2025-05-11 10:16:50",
+      "items": [
+        {
+          "product_id": "P0045",
+          "quantity": 2,
+          "unit_price": 29.56
+        },
+        {
+          "product_id": "P0007",
+          "quantity": 1,
+          "unit_price": 26.26
+        },
+        {
+          "product_id": "P0030",
+          "quantity": 3,
+          "unit_price": 190.35
+        },
+        {
+          "product_id": "P0041",
+          "quantity": 1,
+          "unit_price": 471.19
+        }
+      ],
+      "shipping_cost": 6.08,
+      "tax": 78.93,
+      "total_amount": 1212.63,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0008",
+      "user_id": "U0014",
+      "order_date": "2025-06-05 00:27:16",
+      "items": [
+        {
+          "product_id": "P0056",
+          "quantity": 3,
+          "unit_price": 450.4
+        }
+      ],
+      "shipping_cost": 3.06,
+      "tax": 94.58,
+      "total_amount": 1448.84,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0009",
+      "user_id": "U0048",
+      "order_date": "2025-05-08 00:07:37",
+      "items": [
+        {
+          "product_id": "P0033",
+          "quantity": 2,
+          "unit_price": 7.75
+        },
+        {
+          "product_id": "P0089",
+          "quantity": 3,
+          "unit_price": 447.54
+        },
+        {
+          "product_id": "P0008",
+          "quantity": 3,
+          "unit_price": 436.57
+        },
+        {
+          "product_id": "P0083",
+          "quantity": 3,
+          "unit_price": 372.24
+        }
+      ],
+      "shipping_cost": 10.16,
+      "tax": 264.92,
+      "total_amount": 4059.63,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0010",
+      "user_id": "U0038",
+      "order_date": "2025-05-23 00:53:52",
+      "items": [
+        {
+          "product_id": "P0053",
+          "quantity": 2,
+          "unit_price": 327.24
+        },
+        {
+          "product_id": "P0015",
+          "quantity": 3,
+          "unit_price": 61.14
+        },
+        {
+          "product_id": "P0080",
+          "quantity": 1,
+          "unit_price": 435.48
+        },
+        {
+          "product_id": "P0063",
+          "quantity": 2,
+          "unit_price": 415.6
+        }
+      ],
+      "shipping_cost": 11.31,
+      "tax": 147.32,
+      "total_amount": 2263.21,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0011",
+      "user_id": "U0045",
+      "order_date": "2025-03-13 20:58:34",
+      "items": [
+        {
+          "product_id": "P0091",
+          "quantity": 3,
+          "unit_price": 248.23
+        },
+        {
+          "product_id": "P0042",
+          "quantity": 3,
+          "unit_price": 45.5
+        }
+      ],
+      "shipping_cost": 7.03,
+      "tax": 61.68,
+      "total_amount": 949.9,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0012",
+      "user_id": "U0032",
+      "order_date": "2025-09-10 19:50:55",
+      "items": [
+        {
+          "product_id": "P0046",
+          "quantity": 3,
+          "unit_price": 361.03
+        },
+        {
+          "product_id": "P0013",
+          "quantity": 1,
+          "unit_price": 187.29
+        },
+        {
+          "product_id": "P0013",
+          "quantity": 3,
+          "unit_price": 187.29
+        },
+        {
+          "product_id": "P0060",
+          "quantity": 2,
+          "unit_price": 491.79
+        }
+      ],
+      "shipping_cost": 12.4,
+      "tax": 197.11,
+      "total_amount": 3025.34,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0013",
+      "user_id": "U0022",
+      "order_date": "2025-06-20 20:37:53",
+      "items": [
+        {
+          "product_id": "P0075",
+          "quantity": 1,
+          "unit_price": 430.88
+        },
+        {
+          "product_id": "P0045",
+          "quantity": 1,
+          "unit_price": 29.56
+        },
+        {
+          "product_id": "P0028",
+          "quantity": 2,
+          "unit_price": 288.14
+        }
+      ],
+      "shipping_cost": 12.94,
+      "tax": 72.57,
+      "total_amount": 1122.23,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0014",
+      "user_id": "U0024",
+      "order_date": "2025-03-11 16:56:44",
+      "items": [
+        {
+          "product_id": "P0079",
+          "quantity": 2,
+          "unit_price": 380.41
+        },
+        {
+          "product_id": "P0023",
+          "quantity": 2,
+          "unit_price": 229.85
+        },
+        {
+          "product_id": "P0082",
+          "quantity": 1,
+          "unit_price": 342.09
+        }
+      ],
+      "shipping_cost": 6.96,
+      "tax": 109.38,
+      "total_amount": 1678.95,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0015",
+      "user_id": "U0020",
+      "order_date": "2025-09-04 03:13:42",
+      "items": [
+        {
+          "product_id": "P0047",
+          "quantity": 1,
+          "unit_price": 82.71
+        },
+        {
+          "product_id": "P0011",
+          "quantity": 3,
+          "unit_price": 308.48
+        },
+        {
+          "product_id": "P0016",
+          "quantity": 2,
+          "unit_price": 455.35
+        }
+      ],
+      "shipping_cost": 10.36,
+      "tax": 134.32,
+      "total_amount": 2063.53,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0016",
+      "user_id": "U0037",
+      "order_date": "2025-03-11 12:09:50",
+      "items": [
+        {
+          "product_id": "P0083",
+          "quantity": 3,
+          "unit_price": 372.24
+        },
+        {
+          "product_id": "P0092",
+          "quantity": 1,
+          "unit_price": 314.55
+        }
+      ],
+      "shipping_cost": 14.33,
+      "tax": 100.19,
+      "total_amount": 1545.79,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0017",
+      "user_id": "U0014",
+      "order_date": "2025-05-09 12:36:54",
+      "items": [
+        {
+          "product_id": "P0056",
+          "quantity": 2,
+          "unit_price": 450.4
+        }
+      ],
+      "shipping_cost": 12.08,
+      "tax": 63.06,
+      "total_amount": 975.94,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0018",
+      "user_id": "U0035",
+      "order_date": "2025-07-17 21:27:01",
+      "items": [
+        {
+          "product_id": "P0081",
+          "quantity": 3,
+          "unit_price": 53.17
+        },
+        {
+          "product_id": "P0080",
+          "quantity": 3,
+          "unit_price": 435.48
+        }
+      ],
+      "shipping_cost": 5.65,
+      "tax": 102.62,
+      "total_amount": 1574.22,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0019",
+      "user_id": "U0003",
+      "order_date": "2025-02-07 23:18:20",
+      "items": [
+        {
+          "product_id": "P0057",
+          "quantity": 2,
+          "unit_price": 138.02
+        }
+      ],
+      "shipping_cost": 9.54,
+      "tax": 19.32,
+      "total_amount": 304.9,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0020",
+      "user_id": "U0033",
+      "order_date": "2025-05-27 21:34:16",
+      "items": [
+        {
+          "product_id": "P0090",
+          "quantity": 2,
+          "unit_price": 99.05
+        }
+      ],
+      "shipping_cost": 9.95,
+      "tax": 13.87,
+      "total_amount": 221.92,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0021",
+      "user_id": "U0022",
+      "order_date": "2025-08-04 18:41:28",
+      "items": [
+        {
+          "product_id": "P0026",
+          "quantity": 1,
+          "unit_price": 119.17
+        },
+        {
+          "product_id": "P0012",
+          "quantity": 1,
+          "unit_price": 251.69
+        }
+      ],
+      "shipping_cost": 9.93,
+      "tax": 25.96,
+      "total_amount": 406.75,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0022",
+      "user_id": "U0013",
+      "order_date": "2025-06-30 00:04:21",
+      "items": [
+        {
+          "product_id": "P0065",
+          "quantity": 3,
+          "unit_price": 44.39
+        },
+        {
+          "product_id": "P0043",
+          "quantity": 1,
+          "unit_price": 383.28
+        },
+        {
+          "product_id": "P0064",
+          "quantity": 3,
+          "unit_price": 427.41
+        },
+        {
+          "product_id": "P0065",
+          "quantity": 3,
+          "unit_price": 44.39
+        }
+      ],
+      "shipping_cost": 5.42,
+      "tax": 135.23,
+      "total_amount": 2072.5,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0023",
+      "user_id": "U0040",
+      "order_date": "2025-07-13 11:43:35",
+      "items": [
+        {
+          "product_id": "P0091",
+          "quantity": 1,
+          "unit_price": 248.23
+        },
+        {
+          "product_id": "P0015",
+          "quantity": 1,
+          "unit_price": 61.14
+        }
+      ],
+      "shipping_cost": 14.51,
+      "tax": 21.66,
+      "total_amount": 345.54,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0024",
+      "user_id": "U0017",
+      "order_date": "2025-06-15 16:32:49",
+      "items": [
+        {
+          "product_id": "P0088",
+          "quantity": 2,
+          "unit_price": 315.78
+        },
+        {
+          "product_id": "P0055",
+          "quantity": 3,
+          "unit_price": 310.51
+        }
+      ],
+      "shipping_cost": 9.06,
+      "tax": 109.42,
+      "total_amount": 1681.57,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0025",
+      "user_id": "U0037",
+      "order_date": "2025-06-10 23:18:31",
+      "items": [
+        {
+          "product_id": "P0035",
+          "quantity": 1,
+          "unit_price": 206.24
+        },
+        {
+          "product_id": "P0014",
+          "quantity": 1,
+          "unit_price": 162.83
+        },
+        {
+          "product_id": "P0055",
+          "quantity": 1,
+          "unit_price": 310.51
+        }
+      ],
+      "shipping_cost": 4.76,
+      "tax": 47.57,
+      "total_amount": 731.91,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0026",
+      "user_id": "U0034",
+      "order_date": "2025-03-29 08:30:53",
+      "items": [
+        {
+          "product_id": "P0043",
+          "quantity": 1,
+          "unit_price": 383.28
+        },
+        {
+          "product_id": "P0030",
+          "quantity": 1,
+          "unit_price": 190.35
+        },
+        {
+          "product_id": "P0063",
+          "quantity": 1,
+          "unit_price": 415.6
+        }
+      ],
+      "shipping_cost": 9.06,
+      "tax": 69.25,
+      "total_amount": 1067.54,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0027",
+      "user_id": "U0049",
+      "order_date": "2025-02-22 16:28:59",
+      "items": [
+        {
+          "product_id": "P0046",
+          "quantity": 3,
+          "unit_price": 361.03
+        },
+        {
+          "product_id": "P0045",
+          "quantity": 3,
+          "unit_price": 29.56
+        }
+      ],
+      "shipping_cost": 7.78,
+      "tax": 82.02,
+      "total_amount": 1261.57,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0028",
+      "user_id": "U0029",
+      "order_date": "2025-04-13 22:47:31",
+      "items": [
+        {
+          "product_id": "P0043",
+          "quantity": 2,
+          "unit_price": 383.28
+        },
+        {
+          "product_id": "P0057",
+          "quantity": 3,
+          "unit_price": 138.02
+        },
+        {
+          "product_id": "P0026",
+          "quantity": 1,
+          "unit_price": 119.17
+        }
+      ],
+      "shipping_cost": 10.78,
+      "tax": 90.99,
+      "total_amount": 1401.56,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0029",
+      "user_id": "U0035",
+      "order_date": "2025-01-14 15:30:57",
+      "items": [
+        {
+          "product_id": "P0055",
+          "quantity": 1,
+          "unit_price": 310.51
+        },
+        {
+          "product_id": "P0016",
+          "quantity": 3,
+          "unit_price": 455.35
+        },
+        {
+          "product_id": "P0002",
+          "quantity": 3,
+          "unit_price": 153.46
+        }
+      ],
+      "shipping_cost": 5.7,
+      "tax": 149.59,
+      "total_amount": 2292.23,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0030",
+      "user_id": "U0038",
+      "order_date": "2025-06-25 11:38:14",
+      "items": [
+        {
+          "product_id": "P0045",
+          "quantity": 1,
+          "unit_price": 29.56
+        },
+        {
+          "product_id": "P0002",
+          "quantity": 3,
+          "unit_price": 153.46
+        },
+        {
+          "product_id": "P0092",
+          "quantity": 2,
+          "unit_price": 314.55
+        },
+        {
+          "product_id": "P0065",
+          "quantity": 2,
+          "unit_price": 44.39
+        }
+      ],
+      "shipping_cost": 4.3,
+      "tax": 84.55,
+      "total_amount": 1296.67,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0031",
+      "user_id": "U0030",
+      "order_date": "2025-09-15 06:19:46",
+      "items": [
+        {
+          "product_id": "P0087",
+          "quantity": 2,
+          "unit_price": 336.62
+        },
+        {
+          "product_id": "P0071",
+          "quantity": 3,
+          "unit_price": 71.03
+        }
+      ],
+      "shipping_cost": 3.29,
+      "tax": 62.04,
+      "total_amount": 951.66,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0032",
+      "user_id": "U0039",
+      "order_date": "2025-09-17 02:47:20",
+      "items": [
+        {
+          "product_id": "P0066",
+          "quantity": 3,
+          "unit_price": 343.98
+        },
+        {
+          "product_id": "P0016",
+          "quantity": 3,
+          "unit_price": 455.35
+        },
+        {
+          "product_id": "P0067",
+          "quantity": 1,
+          "unit_price": 193.34
+        },
+        {
+          "product_id": "P0022",
+          "quantity": 1,
+          "unit_price": 74.89
+        }
+      ],
+      "shipping_cost": 8.75,
+      "tax": 186.64,
+      "total_amount": 2861.61,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0033",
+      "user_id": "U0003",
+      "order_date": "2025-04-07 22:27:09",
+      "items": [
+        {
+          "product_id": "P0085",
+          "quantity": 1,
+          "unit_price": 258.5
+        }
+      ],
+      "shipping_cost": 13.62,
+      "tax": 18.1,
+      "total_amount": 290.22,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0034",
+      "user_id": "U0010",
+      "order_date": "2025-02-16 20:10:43",
+      "items": [
+        {
+          "product_id": "P0009",
+          "quantity": 2,
+          "unit_price": 304.24
+        }
+      ],
+      "shipping_cost": 13.49,
+      "tax": 42.59,
+      "total_amount": 664.56,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0035",
+      "user_id": "U0009",
+      "order_date": "2025-01-20 11:09:30",
+      "items": [
+        {
+          "product_id": "P0099",
+          "quantity": 3,
+          "unit_price": 322.66
+        },
+        {
+          "product_id": "P0002",
+          "quantity": 3,
+          "unit_price": 153.46
+        },
+        {
+          "product_id": "P0090",
+          "quantity": 1,
+          "unit_price": 99.05
+        },
+        {
+          "product_id": "P0045",
+          "quantity": 2,
+          "unit_price": 29.56
+        }
+      ],
+      "shipping_cost": 14.78,
+      "tax": 111.06,
+      "total_amount": 1712.37,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0036",
+      "user_id": "U0006",
+      "order_date": "2025-07-25 22:10:23",
+      "items": [
+        {
+          "product_id": "P0077",
+          "quantity": 3,
+          "unit_price": 384.23
+        },
+        {
+          "product_id": "P0081",
+          "quantity": 1,
+          "unit_price": 53.17
+        },
+        {
+          "product_id": "P0037",
+          "quantity": 2,
+          "unit_price": 293.36
+        },
+        {
+          "product_id": "P0009",
+          "quantity": 3,
+          "unit_price": 304.24
+        }
+      ],
+      "shipping_cost": 8.75,
+      "tax": 189.37,
+      "total_amount": 2903.42,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0037",
+      "user_id": "U0047",
+      "order_date": "2025-06-16 03:47:17",
+      "items": [
+        {
+          "product_id": "P0038",
+          "quantity": 1,
+          "unit_price": 156.78
+        },
+        {
+          "product_id": "P0002",
+          "quantity": 2,
+          "unit_price": 153.46
+        },
+        {
+          "product_id": "P0078",
+          "quantity": 3,
+          "unit_price": 140.94
+        }
+      ],
+      "shipping_cost": 6.25,
+      "tax": 62.06,
+      "total_amount": 954.83,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0038",
+      "user_id": "U0027",
+      "order_date": "2025-09-04 15:07:23",
+      "items": [
+        {
+          "product_id": "P0050",
+          "quantity": 3,
+          "unit_price": 344.19
+        },
+        {
+          "product_id": "P0072",
+          "quantity": 3,
+          "unit_price": 182.5
+        },
+        {
+          "product_id": "P0044",
+          "quantity": 3,
+          "unit_price": 481.05
+        }
+      ],
+      "shipping_cost": 12.65,
+      "tax": 211.63,
+      "total_amount": 3247.5,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0039",
+      "user_id": "U0017",
+      "order_date": "2025-01-28 23:20:42",
+      "items": [
+        {
+          "product_id": "P0010",
+          "quantity": 2,
+          "unit_price": 485.98
+        },
+        {
+          "product_id": "P0077",
+          "quantity": 2,
+          "unit_price": 384.23
+        }
+      ],
+      "shipping_cost": 8.42,
+      "tax": 121.83,
+      "total_amount": 1870.67,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0040",
+      "user_id": "U0011",
+      "order_date": "2025-06-14 23:54:43",
+      "items": [
+        {
+          "product_id": "P0027",
+          "quantity": 2,
+          "unit_price": 166.96
+        },
+        {
+          "product_id": "P0042",
+          "quantity": 2,
+          "unit_price": 45.5
+        },
+        {
+          "product_id": "P0031",
+          "quantity": 3,
+          "unit_price": 298.97
+        },
+        {
+          "product_id": "P0066",
+          "quantity": 2,
+          "unit_price": 343.98
+        }
+      ],
+      "shipping_cost": 10.21,
+      "tax": 140.69,
+      "total_amount": 2160.69,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0041",
+      "user_id": "U0049",
+      "order_date": "2025-05-27 15:09:35",
+      "items": [
+        {
+          "product_id": "P0041",
+          "quantity": 1,
+          "unit_price": 471.19
+        },
+        {
+          "product_id": "P0096",
+          "quantity": 2,
+          "unit_price": 280.98
+        },
+        {
+          "product_id": "P0074",
+          "quantity": 3,
+          "unit_price": 193.84
+        },
+        {
+          "product_id": "P0068",
+          "quantity": 2,
+          "unit_price": 352.16
+        }
+      ],
+      "shipping_cost": 12.64,
+      "tax": 162.33,
+      "total_amount": 2493.96,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0042",
+      "user_id": "U0048",
+      "order_date": "2025-08-23 07:31:32",
+      "items": [
+        {
+          "product_id": "P0038",
+          "quantity": 1,
+          "unit_price": 156.78
+        }
+      ],
+      "shipping_cost": 3.27,
+      "tax": 10.97,
+      "total_amount": 171.02,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0043",
+      "user_id": "U0020",
+      "order_date": "2025-08-28 12:18:15",
+      "items": [
+        {
+          "product_id": "P0013",
+          "quantity": 1,
+          "unit_price": 187.29
+        }
+      ],
+      "shipping_cost": 7.09,
+      "tax": 13.11,
+      "total_amount": 207.49,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0044",
+      "user_id": "U0017",
+      "order_date": "2025-07-10 03:21:58",
+      "items": [
+        {
+          "product_id": "P0081",
+          "quantity": 3,
+          "unit_price": 53.17
+        },
+        {
+          "product_id": "P0088",
+          "quantity": 3,
+          "unit_price": 315.78
+        },
+        {
+          "product_id": "P0071",
+          "quantity": 3,
+          "unit_price": 71.03
+        }
+      ],
+      "shipping_cost": 10.33,
+      "tax": 92.4,
+      "total_amount": 1422.67,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0045",
+      "user_id": "U0001",
+      "order_date": "2025-04-30 11:29:53",
+      "items": [
+        {
+          "product_id": "P0050",
+          "quantity": 3,
+          "unit_price": 344.19
+        }
+      ],
+      "shipping_cost": 13.68,
+      "tax": 72.28,
+      "total_amount": 1118.53,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0046",
+      "user_id": "U0036",
+      "order_date": "2025-01-16 21:49:07",
+      "items": [
+        {
+          "product_id": "P0096",
+          "quantity": 3,
+          "unit_price": 280.98
+        },
+        {
+          "product_id": "P0039",
+          "quantity": 1,
+          "unit_price": 97.92
+        },
+        {
+          "product_id": "P0017",
+          "quantity": 3,
+          "unit_price": 300.37
+        }
+      ],
+      "shipping_cost": 9.34,
+      "tax": 128.94,
+      "total_amount": 1980.25,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0047",
+      "user_id": "U0019",
+      "order_date": "2025-09-07 18:08:43",
+      "items": [
+        {
+          "product_id": "P0001",
+          "quantity": 3,
+          "unit_price": 131.15
+        },
+        {
+          "product_id": "P0010",
+          "quantity": 3,
+          "unit_price": 485.98
+        }
+      ],
+      "shipping_cost": 10.21,
+      "tax": 129.6,
+      "total_amount": 1991.2,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0048",
+      "user_id": "U0029",
+      "order_date": "2025-03-14 23:16:01",
+      "items": [
+        {
+          "product_id": "P0066",
+          "quantity": 1,
+          "unit_price": 343.98
+        },
+        {
+          "product_id": "P0042",
+          "quantity": 1,
+          "unit_price": 45.5
+        },
+        {
+          "product_id": "P0012",
+          "quantity": 1,
+          "unit_price": 251.69
+        },
+        {
+          "product_id": "P0070",
+          "quantity": 1,
+          "unit_price": 186.2
+        }
+      ],
+      "shipping_cost": 7.41,
+      "tax": 57.92,
+      "total_amount": 892.7,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0049",
+      "user_id": "U0038",
+      "order_date": "2025-01-31 15:27:01",
+      "items": [
+        {
+          "product_id": "P0033",
+          "quantity": 1,
+          "unit_price": 7.75
+        },
+        {
+          "product_id": "P0013",
+          "quantity": 3,
+          "unit_price": 187.29
+        },
+        {
+          "product_id": "P0002",
+          "quantity": 3,
+          "unit_price": 153.46
+        }
+      ],
+      "shipping_cost": 11.69,
+      "tax": 72.1,
+      "total_amount": 1113.79,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0050",
+      "user_id": "U0026",
+      "order_date": "2025-06-05 18:50:15",
+      "items": [
+        {
+          "product_id": "P0013",
+          "quantity": 1,
+          "unit_price": 187.29
+        }
+      ],
+      "shipping_cost": 5.89,
+      "tax": 13.11,
+      "total_amount": 206.29,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0051",
+      "user_id": "U0021",
+      "order_date": "2025-03-18 19:24:55",
+      "items": [
+        {
+          "product_id": "P0005",
+          "quantity": 3,
+          "unit_price": 391.08
+        }
+      ],
+      "shipping_cost": 13.83,
+      "tax": 82.13,
+      "total_amount": 1269.2,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0052",
+      "user_id": "U0012",
+      "order_date": "2025-08-11 15:00:51",
+      "items": [
+        {
+          "product_id": "P0006",
+          "quantity": 2,
+          "unit_price": 175.11
+        },
+        {
+          "product_id": "P0062",
+          "quantity": 3,
+          "unit_price": 267.12
+        },
+        {
+          "product_id": "P0075",
+          "quantity": 1,
+          "unit_price": 430.88
+        },
+        {
+          "product_id": "P0080",
+          "quantity": 2,
+          "unit_price": 435.48
+        }
+      ],
+      "shipping_cost": 6.52,
+      "tax": 171.74,
+      "total_amount": 2631.68,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0053",
+      "user_id": "U0050",
+      "order_date": "2025-08-31 04:24:54",
+      "items": [
+        {
+          "product_id": "P0002",
+          "quantity": 1,
+          "unit_price": 153.46
+        }
+      ],
+      "shipping_cost": 5.42,
+      "tax": 10.74,
+      "total_amount": 169.62,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0054",
+      "user_id": "U0034",
+      "order_date": "2025-08-14 00:10:20",
+      "items": [
+        {
+          "product_id": "P0034",
+          "quantity": 2,
+          "unit_price": 13.66
+        }
+      ],
+      "shipping_cost": 10.89,
+      "tax": 1.91,
+      "total_amount": 40.12,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0055",
+      "user_id": "U0013",
+      "order_date": "2025-01-17 05:15:31",
+      "items": [
+        {
+          "product_id": "P0095",
+          "quantity": 1,
+          "unit_price": 323.91
+        },
+        {
+          "product_id": "P0055",
+          "quantity": 1,
+          "unit_price": 310.51
+        }
+      ],
+      "shipping_cost": 5.26,
+      "tax": 44.41,
+      "total_amount": 684.09,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0056",
+      "user_id": "U0011",
+      "order_date": "2025-05-02 04:23:13",
+      "items": [
+        {
+          "product_id": "P0085",
+          "quantity": 2,
+          "unit_price": 258.5
+        },
+        {
+          "product_id": "P0054",
+          "quantity": 2,
+          "unit_price": 439.95
+        },
+        {
+          "product_id": "P0004",
+          "quantity": 3,
+          "unit_price": 254.64
+        }
+      ],
+      "shipping_cost": 8.0,
+      "tax": 151.26,
+      "total_amount": 2320.08,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0057",
+      "user_id": "U0001",
+      "order_date": "2025-07-27 19:22:24",
+      "items": [
+        {
+          "product_id": "P0093",
+          "quantity": 2,
+          "unit_price": 391.82
+        }
+      ],
+      "shipping_cost": 12.78,
+      "tax": 54.85,
+      "total_amount": 851.27,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0058",
+      "user_id": "U0027",
+      "order_date": "2025-08-26 08:03:17",
+      "items": [
+        {
+          "product_id": "P0049",
+          "quantity": 3,
+          "unit_price": 27.52
+        },
+        {
+          "product_id": "P0006",
+          "quantity": 3,
+          "unit_price": 175.11
+        },
+        {
+          "product_id": "P0086",
+          "quantity": 2,
+          "unit_price": 21.9
+        }
+      ],
+      "shipping_cost": 7.36,
+      "tax": 45.62,
+      "total_amount": 704.67,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0059",
+      "user_id": "U0037",
+      "order_date": "2025-04-13 04:22:58",
+      "items": [
+        {
+          "product_id": "P0096",
+          "quantity": 3,
+          "unit_price": 280.98
+        },
+        {
+          "product_id": "P0015",
+          "quantity": 2,
+          "unit_price": 61.14
+        }
+      ],
+      "shipping_cost": 8.78,
+      "tax": 67.57,
+      "total_amount": 1041.57,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0060",
+      "user_id": "U0005",
+      "order_date": "2025-07-31 04:14:39",
+      "items": [
+        {
+          "product_id": "P0050",
+          "quantity": 1,
+          "unit_price": 344.19
+        },
+        {
+          "product_id": "P0050",
+          "quantity": 3,
+          "unit_price": 344.19
+        },
+        {
+          "product_id": "P0059",
+          "quantity": 3,
+          "unit_price": 411.0
+        }
+      ],
+      "shipping_cost": 11.78,
+      "tax": 182.68,
+      "total_amount": 2804.22,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0061",
+      "user_id": "U0045",
+      "order_date": "2025-01-26 08:49:30",
+      "items": [
+        {
+          "product_id": "P0084",
+          "quantity": 2,
+          "unit_price": 317.4
+        }
+      ],
+      "shipping_cost": 4.73,
+      "tax": 44.44,
+      "total_amount": 683.97,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0062",
+      "user_id": "U0049",
+      "order_date": "2025-09-12 15:26:03",
+      "items": [
+        {
+          "product_id": "P0075",
+          "quantity": 1,
+          "unit_price": 430.88
+        }
+      ],
+      "shipping_cost": 9.16,
+      "tax": 30.16,
+      "total_amount": 470.2,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0063",
+      "user_id": "U0026",
+      "order_date": "2025-05-17 22:48:09",
+      "items": [
+        {
+          "product_id": "P0001",
+          "quantity": 2,
+          "unit_price": 131.15
+        },
+        {
+          "product_id": "P0087",
+          "quantity": 3,
+          "unit_price": 336.62
+        },
+        {
+          "product_id": "P0014",
+          "quantity": 2,
+          "unit_price": 162.83
+        }
+      ],
+      "shipping_cost": 10.7,
+      "tax": 111.85,
+      "total_amount": 1720.37,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0064",
+      "user_id": "U0001",
+      "order_date": "2025-05-03 11:43:20",
+      "items": [
+        {
+          "product_id": "P0041",
+          "quantity": 1,
+          "unit_price": 471.19
+        },
+        {
+          "product_id": "P0053",
+          "quantity": 2,
+          "unit_price": 327.24
+        }
+      ],
+      "shipping_cost": 6.08,
+      "tax": 78.8,
+      "total_amount": 1210.55,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0065",
+      "user_id": "U0034",
+      "order_date": "2025-06-18 03:21:28",
+      "items": [
+        {
+          "product_id": "P0053",
+          "quantity": 1,
+          "unit_price": 327.24
+        },
+        {
+          "product_id": "P0070",
+          "quantity": 2,
+          "unit_price": 186.2
+        },
+        {
+          "product_id": "P0021",
+          "quantity": 3,
+          "unit_price": 355.46
+        }
+      ],
+      "shipping_cost": 10.47,
+      "tax": 123.62,
+      "total_amount": 1900.11,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0066",
+      "user_id": "U0002",
+      "order_date": "2025-07-08 21:34:22",
+      "items": [
+        {
+          "product_id": "P0076",
+          "quantity": 1,
+          "unit_price": 185.88
+        },
+        {
+          "product_id": "P0014",
+          "quantity": 2,
+          "unit_price": 162.83
+        }
+      ],
+      "shipping_cost": 3.18,
+      "tax": 35.81,
+      "total_amount": 550.53,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0067",
+      "user_id": "U0025",
+      "order_date": "2025-02-14 17:45:20",
+      "items": [
+        {
+          "product_id": "P0005",
+          "quantity": 3,
+          "unit_price": 391.08
+        }
+      ],
+      "shipping_cost": 8.82,
+      "tax": 82.13,
+      "total_amount": 1264.19,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0068",
+      "user_id": "U0027",
+      "order_date": "2025-08-08 09:04:22",
+      "items": [
+        {
+          "product_id": "P0005",
+          "quantity": 2,
+          "unit_price": 391.08
+        },
+        {
+          "product_id": "P0089",
+          "quantity": 2,
+          "unit_price": 447.54
+        },
+        {
+          "product_id": "P0065",
+          "quantity": 2,
+          "unit_price": 44.39
+        }
+      ],
+      "shipping_cost": 10.68,
+      "tax": 123.62,
+      "total_amount": 1900.32,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0069",
+      "user_id": "U0001",
+      "order_date": "2025-07-30 17:38:12",
+      "items": [
+        {
+          "product_id": "P0021",
+          "quantity": 3,
+          "unit_price": 355.46
+        }
+      ],
+      "shipping_cost": 10.16,
+      "tax": 74.65,
+      "total_amount": 1151.19,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0070",
+      "user_id": "U0035",
+      "order_date": "2025-08-16 00:30:22",
+      "items": [
+        {
+          "product_id": "P0077",
+          "quantity": 1,
+          "unit_price": 384.23
+        },
+        {
+          "product_id": "P0078",
+          "quantity": 3,
+          "unit_price": 140.94
+        },
+        {
+          "product_id": "P0008",
+          "quantity": 3,
+          "unit_price": 436.57
+        },
+        {
+          "product_id": "P0073",
+          "quantity": 2,
+          "unit_price": 262.06
+        }
+      ],
+      "shipping_cost": 7.25,
+      "tax": 184.86,
+      "total_amount": 2832.99,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0071",
+      "user_id": "U0002",
+      "order_date": "2025-04-22 18:23:55",
+      "items": [
+        {
+          "product_id": "P0079",
+          "quantity": 3,
+          "unit_price": 380.41
+        }
+      ],
+      "shipping_cost": 9.1,
+      "tax": 79.89,
+      "total_amount": 1230.22,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0072",
+      "user_id": "U0009",
+      "order_date": "2025-06-12 09:52:03",
+      "items": [
+        {
+          "product_id": "P0026",
+          "quantity": 2,
+          "unit_price": 119.17
+        },
+        {
+          "product_id": "P0014",
+          "quantity": 1,
+          "unit_price": 162.83
+        },
+        {
+          "product_id": "P0037",
+          "quantity": 3,
+          "unit_price": 293.36
+        }
+      ],
+      "shipping_cost": 3.54,
+      "tax": 89.69,
+      "total_amount": 1374.48,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0073",
+      "user_id": "U0006",
+      "order_date": "2025-04-28 07:54:11",
+      "items": [
+        {
+          "product_id": "P0078",
+          "quantity": 1,
+          "unit_price": 140.94
+        }
+      ],
+      "shipping_cost": 4.73,
+      "tax": 9.87,
+      "total_amount": 155.54,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0074",
+      "user_id": "U0029",
+      "order_date": "2025-06-05 11:27:23",
+      "items": [
+        {
+          "product_id": "P0014",
+          "quantity": 1,
+          "unit_price": 162.83
+        },
+        {
+          "product_id": "P0013",
+          "quantity": 3,
+          "unit_price": 187.29
+        }
+      ],
+      "shipping_cost": 4.14,
+      "tax": 50.73,
+      "total_amount": 779.57,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0075",
+      "user_id": "U0026",
+      "order_date": "2025-08-21 22:39:47",
+      "items": [
+        {
+          "product_id": "P0023",
+          "quantity": 2,
+          "unit_price": 229.85
+        },
+        {
+          "product_id": "P0033",
+          "quantity": 3,
+          "unit_price": 7.75
+        }
+      ],
+      "shipping_cost": 11.05,
+      "tax": 33.81,
+      "total_amount": 527.81,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0076",
+      "user_id": "U0003",
+      "order_date": "2025-08-18 04:07:37",
+      "items": [
+        {
+          "product_id": "P0013",
+          "quantity": 1,
+          "unit_price": 187.29
+        },
+        {
+          "product_id": "P0094",
+          "quantity": 3,
+          "unit_price": 455.34
+        }
+      ],
+      "shipping_cost": 4.06,
+      "tax": 108.73,
+      "total_amount": 1666.1,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0077",
+      "user_id": "U0031",
+      "order_date": "2025-01-06 23:18:34",
+      "items": [
+        {
+          "product_id": "P0073",
+          "quantity": 1,
+          "unit_price": 262.06
+        },
+        {
+          "product_id": "P0095",
+          "quantity": 3,
+          "unit_price": 323.91
+        }
+      ],
+      "shipping_cost": 6.32,
+      "tax": 86.37,
+      "total_amount": 1326.48,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0078",
+      "user_id": "U0014",
+      "order_date": "2025-02-18 11:02:24",
+      "items": [
+        {
+          "product_id": "P0089",
+          "quantity": 2,
+          "unit_price": 447.54
+        }
+      ],
+      "shipping_cost": 5.91,
+      "tax": 62.66,
+      "total_amount": 963.65,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0079",
+      "user_id": "U0030",
+      "order_date": "2025-04-17 00:46:46",
+      "items": [
+        {
+          "product_id": "P0025",
+          "quantity": 2,
+          "unit_price": 316.31
+        },
+        {
+          "product_id": "P0029",
+          "quantity": 1,
+          "unit_price": 269.29
+        },
+        {
+          "product_id": "P0024",
+          "quantity": 1,
+          "unit_price": 438.26
+        }
+      ],
+      "shipping_cost": 10.48,
+      "tax": 93.81,
+      "total_amount": 1444.46,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0080",
+      "user_id": "U0015",
+      "order_date": "2025-08-04 22:30:04",
+      "items": [
+        {
+          "product_id": "P0083",
+          "quantity": 3,
+          "unit_price": 372.24
+        }
+      ],
+      "shipping_cost": 5.6,
+      "tax": 78.17,
+      "total_amount": 1200.49,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0081",
+      "user_id": "U0034",
+      "order_date": "2025-03-06 08:29:49",
+      "items": [
+        {
+          "product_id": "P0036",
+          "quantity": 2,
+          "unit_price": 318.93
+        },
+        {
+          "product_id": "P0047",
+          "quantity": 3,
+          "unit_price": 82.71
+        },
+        {
+          "product_id": "P0071",
+          "quantity": 3,
+          "unit_price": 71.03
+        }
+      ],
+      "shipping_cost": 5.54,
+      "tax": 76.94,
+      "total_amount": 1181.56,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0082",
+      "user_id": "U0035",
+      "order_date": "2025-05-13 10:25:06",
+      "items": [
+        {
+          "product_id": "P0040",
+          "quantity": 2,
+          "unit_price": 47.14
+        },
+        {
+          "product_id": "P0085",
+          "quantity": 3,
+          "unit_price": 258.5
+        }
+      ],
+      "shipping_cost": 4.28,
+      "tax": 60.88,
+      "total_amount": 934.94,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0083",
+      "user_id": "U0044",
+      "order_date": "2025-02-12 22:06:48",
+      "items": [
+        {
+          "product_id": "P0054",
+          "quantity": 2,
+          "unit_price": 439.95
+        },
+        {
+          "product_id": "P0046",
+          "quantity": 3,
+          "unit_price": 361.03
+        }
+      ],
+      "shipping_cost": 6.71,
+      "tax": 137.41,
+      "total_amount": 2107.11,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0084",
+      "user_id": "U0019",
+      "order_date": "2025-01-20 15:38:01",
+      "items": [
+        {
+          "product_id": "P0013",
+          "quantity": 2,
+          "unit_price": 187.29
+        },
+        {
+          "product_id": "P0019",
+          "quantity": 1,
+          "unit_price": 40.54
+        },
+        {
+          "product_id": "P0065",
+          "quantity": 1,
+          "unit_price": 44.39
+        },
+        {
+          "product_id": "P0045",
+          "quantity": 1,
+          "unit_price": 29.56
+        }
+      ],
+      "shipping_cost": 6.49,
+      "tax": 34.23,
+      "total_amount": 529.79,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0085",
+      "user_id": "U0044",
+      "order_date": "2025-01-21 05:33:01",
+      "items": [
+        {
+          "product_id": "P0077",
+          "quantity": 1,
+          "unit_price": 384.23
+        },
+        {
+          "product_id": "P0064",
+          "quantity": 2,
+          "unit_price": 427.41
+        }
+      ],
+      "shipping_cost": 7.05,
+      "tax": 86.73,
+      "total_amount": 1332.83,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0086",
+      "user_id": "U0002",
+      "order_date": "2025-06-05 14:52:17",
+      "items": [
+        {
+          "product_id": "P0032",
+          "quantity": 1,
+          "unit_price": 320.62
+        }
+      ],
+      "shipping_cost": 3.77,
+      "tax": 22.44,
+      "total_amount": 346.83,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0087",
+      "user_id": "U0046",
+      "order_date": "2025-09-14 03:02:10",
+      "items": [
+        {
+          "product_id": "P0032",
+          "quantity": 1,
+          "unit_price": 320.62
+        },
+        {
+          "product_id": "P0076",
+          "quantity": 2,
+          "unit_price": 185.88
+        },
+        {
+          "product_id": "P0061",
+          "quantity": 2,
+          "unit_price": 319.96
+        },
+        {
+          "product_id": "P0016",
+          "quantity": 2,
+          "unit_price": 455.35
+        }
+      ],
+      "shipping_cost": 8.76,
+      "tax": 157.01,
+      "total_amount": 2408.77,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0088",
+      "user_id": "U0001",
+      "order_date": "2025-01-15 20:03:22",
+      "items": [
+        {
+          "product_id": "P0053",
+          "quantity": 2,
+          "unit_price": 327.24
+        },
+        {
+          "product_id": "P0041",
+          "quantity": 1,
+          "unit_price": 471.19
+        }
+      ],
+      "shipping_cost": 11.01,
+      "tax": 78.8,
+      "total_amount": 1215.48,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0089",
+      "user_id": "U0044",
+      "order_date": "2025-01-12 05:44:50",
+      "items": [
+        {
+          "product_id": "P0040",
+          "quantity": 2,
+          "unit_price": 47.14
+        },
+        {
+          "product_id": "P0009",
+          "quantity": 2,
+          "unit_price": 304.24
+        },
+        {
+          "product_id": "P0053",
+          "quantity": 1,
+          "unit_price": 327.24
+        },
+        {
+          "product_id": "P0034",
+          "quantity": 1,
+          "unit_price": 13.66
+        }
+      ],
+      "shipping_cost": 6.1,
+      "tax": 73.06,
+      "total_amount": 1122.82,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0090",
+      "user_id": "U0023",
+      "order_date": "2025-09-06 08:18:15",
+      "items": [
+        {
+          "product_id": "P0047",
+          "quantity": 3,
+          "unit_price": 82.71
+        }
+      ],
+      "shipping_cost": 7.84,
+      "tax": 17.37,
+      "total_amount": 273.34,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0091",
+      "user_id": "U0043",
+      "order_date": "2025-05-12 08:25:00",
+      "items": [
+        {
+          "product_id": "P0009",
+          "quantity": 1,
+          "unit_price": 304.24
+        },
+        {
+          "product_id": "P0012",
+          "quantity": 1,
+          "unit_price": 251.69
+        },
+        {
+          "product_id": "P0094",
+          "quantity": 3,
+          "unit_price": 455.34
+        },
+        {
+          "product_id": "P0008",
+          "quantity": 3,
+          "unit_price": 436.57
+        }
+      ],
+      "shipping_cost": 11.11,
+      "tax": 226.22,
+      "total_amount": 3468.99,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0092",
+      "user_id": "U0022",
+      "order_date": "2025-01-10 16:15:47",
+      "items": [
+        {
+          "product_id": "P0048",
+          "quantity": 2,
+          "unit_price": 304.39
+        },
+        {
+          "product_id": "P0099",
+          "quantity": 1,
+          "unit_price": 322.66
+        },
+        {
+          "product_id": "P0001",
+          "quantity": 1,
+          "unit_price": 131.15
+        },
+        {
+          "product_id": "P0061",
+          "quantity": 2,
+          "unit_price": 319.96
+        }
+      ],
+      "shipping_cost": 3.64,
+      "tax": 119.18,
+      "total_amount": 1825.33,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0093",
+      "user_id": "U0037",
+      "order_date": "2025-09-03 21:02:26",
+      "items": [
+        {
+          "product_id": "P0005",
+          "quantity": 2,
+          "unit_price": 391.08
+        },
+        {
+          "product_id": "P0041",
+          "quantity": 2,
+          "unit_price": 471.19
+        }
+      ],
+      "shipping_cost": 4.47,
+      "tax": 120.72,
+      "total_amount": 1849.73,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0094",
+      "user_id": "U0031",
+      "order_date": "2025-02-09 22:20:05",
+      "items": [
+        {
+          "product_id": "P0046",
+          "quantity": 3,
+          "unit_price": 361.03
+        },
+        {
+          "product_id": "P0057",
+          "quantity": 1,
+          "unit_price": 138.02
+        },
+        {
+          "product_id": "P0079",
+          "quantity": 2,
+          "unit_price": 380.41
+        },
+        {
+          "product_id": "P0008",
+          "quantity": 3,
+          "unit_price": 436.57
+        }
+      ],
+      "shipping_cost": 7.3,
+      "tax": 230.41,
+      "total_amount": 3529.35,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0095",
+      "user_id": "U0005",
+      "order_date": "2025-01-14 21:54:46",
+      "items": [
+        {
+          "product_id": "P0042",
+          "quantity": 2,
+          "unit_price": 45.5
+        },
+        {
+          "product_id": "P0018",
+          "quantity": 3,
+          "unit_price": 28.97
+        }
+      ],
+      "shipping_cost": 3.64,
+      "tax": 12.45,
+      "total_amount": 194.0,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0096",
+      "user_id": "U0049",
+      "order_date": "2025-01-24 15:34:16",
+      "items": [
+        {
+          "product_id": "P0077",
+          "quantity": 3,
+          "unit_price": 384.23
+        },
+        {
+          "product_id": "P0082",
+          "quantity": 2,
+          "unit_price": 342.09
+        },
+        {
+          "product_id": "P0047",
+          "quantity": 1,
+          "unit_price": 82.71
+        },
+        {
+          "product_id": "P0042",
+          "quantity": 2,
+          "unit_price": 45.5
+        }
+      ],
+      "shipping_cost": 7.26,
+      "tax": 140.74,
+      "total_amount": 2158.58,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0097",
+      "user_id": "U0043",
+      "order_date": "2025-08-17 03:19:17",
+      "items": [
+        {
+          "product_id": "P0077",
+          "quantity": 2,
+          "unit_price": 384.23
+        }
+      ],
+      "shipping_cost": 7.34,
+      "tax": 53.79,
+      "total_amount": 829.59,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0098",
+      "user_id": "U0034",
+      "order_date": "2025-01-04 11:56:16",
+      "items": [
+        {
+          "product_id": "P0017",
+          "quantity": 1,
+          "unit_price": 300.37
+        },
+        {
+          "product_id": "P0058",
+          "quantity": 2,
+          "unit_price": 273.24
+        },
+        {
+          "product_id": "P0095",
+          "quantity": 3,
+          "unit_price": 323.91
+        },
+        {
+          "product_id": "P0007",
+          "quantity": 3,
+          "unit_price": 26.26
+        }
+      ],
+      "shipping_cost": 10.07,
+      "tax": 132.82,
+      "total_amount": 2040.25,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0099",
+      "user_id": "U0050",
+      "order_date": "2025-08-17 17:15:00",
+      "items": [
+        {
+          "product_id": "P0034",
+          "quantity": 3,
+          "unit_price": 13.66
+        },
+        {
+          "product_id": "P0074",
+          "quantity": 2,
+          "unit_price": 193.84
+        }
+      ],
+      "shipping_cost": 10.07,
+      "tax": 30.01,
+      "total_amount": 468.74,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0100",
+      "user_id": "U0027",
+      "order_date": "2025-05-19 19:12:33",
+      "items": [
+        {
+          "product_id": "P0011",
+          "quantity": 1,
+          "unit_price": 308.48
+        },
+        {
+          "product_id": "P0036",
+          "quantity": 3,
+          "unit_price": 318.93
+        }
+      ],
+      "shipping_cost": 7.9,
+      "tax": 88.57,
+      "total_amount": 1361.74,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0101",
+      "user_id": "U0018",
+      "order_date": "2025-03-31 01:18:32",
+      "items": [
+        {
+          "product_id": "P0056",
+          "quantity": 3,
+          "unit_price": 450.4
+        },
+        {
+          "product_id": "P0091",
+          "quantity": 2,
+          "unit_price": 248.23
+        },
+        {
+          "product_id": "P0003",
+          "quantity": 1,
+          "unit_price": 27.2
+        }
+      ],
+      "shipping_cost": 5.95,
+      "tax": 131.24,
+      "total_amount": 2012.05,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0102",
+      "user_id": "U0040",
+      "order_date": "2025-05-29 10:32:35",
+      "items": [
+        {
+          "product_id": "P0077",
+          "quantity": 2,
+          "unit_price": 384.23
+        },
+        {
+          "product_id": "P0092",
+          "quantity": 1,
+          "unit_price": 314.55
+        },
+        {
+          "product_id": "P0072",
+          "quantity": 1,
+          "unit_price": 182.5
+        },
+        {
+          "product_id": "P0006",
+          "quantity": 2,
+          "unit_price": 175.11
+        }
+      ],
+      "shipping_cost": 12.84,
+      "tax": 113.1,
+      "total_amount": 1741.67,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0103",
+      "user_id": "U0023",
+      "order_date": "2025-02-19 10:52:32",
+      "items": [
+        {
+          "product_id": "P0028",
+          "quantity": 3,
+          "unit_price": 288.14
+        },
+        {
+          "product_id": "P0072",
+          "quantity": 2,
+          "unit_price": 182.5
+        },
+        {
+          "product_id": "P0041",
+          "quantity": 2,
+          "unit_price": 471.19
+        }
+      ],
+      "shipping_cost": 13.08,
+      "tax": 152.03,
+      "total_amount": 2336.91,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0104",
+      "user_id": "U0040",
+      "order_date": "2025-08-04 12:14:24",
+      "items": [
+        {
+          "product_id": "P0015",
+          "quantity": 3,
+          "unit_price": 61.14
+        },
+        {
+          "product_id": "P0086",
+          "quantity": 2,
+          "unit_price": 21.9
+        },
+        {
+          "product_id": "P0082",
+          "quantity": 3,
+          "unit_price": 342.09
+        }
+      ],
+      "shipping_cost": 7.66,
+      "tax": 87.74,
+      "total_amount": 1348.89,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0105",
+      "user_id": "U0018",
+      "order_date": "2025-02-03 07:14:23",
+      "items": [
+        {
+          "product_id": "P0066",
+          "quantity": 3,
+          "unit_price": 343.98
+        },
+        {
+          "product_id": "P0100",
+          "quantity": 1,
+          "unit_price": 227.27
+        },
+        {
+          "product_id": "P0063",
+          "quantity": 3,
+          "unit_price": 415.6
+        }
+      ],
+      "shipping_cost": 9.3,
+      "tax": 175.42,
+      "total_amount": 2690.73,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0106",
+      "user_id": "U0003",
+      "order_date": "2025-08-13 23:39:05",
+      "items": [
+        {
+          "product_id": "P0054",
+          "quantity": 1,
+          "unit_price": 439.95
+        }
+      ],
+      "shipping_cost": 7.33,
+      "tax": 30.8,
+      "total_amount": 478.08,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0107",
+      "user_id": "U0034",
+      "order_date": "2025-05-26 09:31:23",
+      "items": [
+        {
+          "product_id": "P0048",
+          "quantity": 3,
+          "unit_price": 304.39
+        }
+      ],
+      "shipping_cost": 12.61,
+      "tax": 63.92,
+      "total_amount": 989.7,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0108",
+      "user_id": "U0018",
+      "order_date": "2025-08-10 17:15:35",
+      "items": [
+        {
+          "product_id": "P0082",
+          "quantity": 2,
+          "unit_price": 342.09
+        }
+      ],
+      "shipping_cost": 4.83,
+      "tax": 47.89,
+      "total_amount": 736.9,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0109",
+      "user_id": "U0033",
+      "order_date": "2025-08-18 04:18:19",
+      "items": [
+        {
+          "product_id": "P0026",
+          "quantity": 1,
+          "unit_price": 119.17
+        }
+      ],
+      "shipping_cost": 4.74,
+      "tax": 8.34,
+      "total_amount": 132.25,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0110",
+      "user_id": "U0017",
+      "order_date": "2025-03-06 19:39:41",
+      "items": [
+        {
+          "product_id": "P0095",
+          "quantity": 1,
+          "unit_price": 323.91
+        },
+        {
+          "product_id": "P0051",
+          "quantity": 3,
+          "unit_price": 326.07
+        }
+      ],
+      "shipping_cost": 10.9,
+      "tax": 91.15,
+      "total_amount": 1404.17,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0111",
+      "user_id": "U0011",
+      "order_date": "2025-02-20 00:04:13",
+      "items": [
+        {
+          "product_id": "P0043",
+          "quantity": 3,
+          "unit_price": 383.28
+        },
+        {
+          "product_id": "P0062",
+          "quantity": 2,
+          "unit_price": 267.12
+        },
+        {
+          "product_id": "P0087",
+          "quantity": 3,
+          "unit_price": 336.62
+        },
+        {
+          "product_id": "P0099",
+          "quantity": 2,
+          "unit_price": 322.66
+        }
+      ],
+      "shipping_cost": 13.8,
+      "tax": 233.75,
+      "total_amount": 3586.81,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0112",
+      "user_id": "U0048",
+      "order_date": "2025-06-15 05:46:06",
+      "items": [
+        {
+          "product_id": "P0078",
+          "quantity": 2,
+          "unit_price": 140.94
+        },
+        {
+          "product_id": "P0013",
+          "quantity": 2,
+          "unit_price": 187.29
+        },
+        {
+          "product_id": "P0033",
+          "quantity": 3,
+          "unit_price": 7.75
+        },
+        {
+          "product_id": "P0004",
+          "quantity": 2,
+          "unit_price": 254.64
+        }
+      ],
+      "shipping_cost": 10.9,
+      "tax": 83.23,
+      "total_amount": 1283.12,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0113",
+      "user_id": "U0046",
+      "order_date": "2025-02-02 23:42:53",
+      "items": [
+        {
+          "product_id": "P0013",
+          "quantity": 2,
+          "unit_price": 187.29
+        },
+        {
+          "product_id": "P0059",
+          "quantity": 3,
+          "unit_price": 411.0
+        },
+        {
+          "product_id": "P0072",
+          "quantity": 2,
+          "unit_price": 182.5
+        },
+        {
+          "product_id": "P0008",
+          "quantity": 1,
+          "unit_price": 436.57
+        }
+      ],
+      "shipping_cost": 9.69,
+      "tax": 168.64,
+      "total_amount": 2587.48,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0114",
+      "user_id": "U0003",
+      "order_date": "2025-08-31 22:12:23",
+      "items": [
+        {
+          "product_id": "P0059",
+          "quantity": 2,
+          "unit_price": 411.0
+        },
+        {
+          "product_id": "P0046",
+          "quantity": 3,
+          "unit_price": 361.03
+        },
+        {
+          "product_id": "P0081",
+          "quantity": 3,
+          "unit_price": 53.17
+        }
+      ],
+      "shipping_cost": 7.74,
+      "tax": 144.52,
+      "total_amount": 2216.86,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0115",
+      "user_id": "U0037",
+      "order_date": "2025-02-18 09:29:54",
+      "items": [
+        {
+          "product_id": "P0073",
+          "quantity": 1,
+          "unit_price": 262.06
+        },
+        {
+          "product_id": "P0064",
+          "quantity": 1,
+          "unit_price": 427.41
+        },
+        {
+          "product_id": "P0001",
+          "quantity": 3,
+          "unit_price": 131.15
+        },
+        {
+          "product_id": "P0004",
+          "quantity": 1,
+          "unit_price": 254.64
+        }
+      ],
+      "shipping_cost": 11.46,
+      "tax": 93.63,
+      "total_amount": 1442.65,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0116",
+      "user_id": "U0022",
+      "order_date": "2025-07-18 07:13:48",
+      "items": [
+        {
+          "product_id": "P0022",
+          "quantity": 3,
+          "unit_price": 74.89
+        }
+      ],
+      "shipping_cost": 14.68,
+      "tax": 15.73,
+      "total_amount": 255.08,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0117",
+      "user_id": "U0030",
+      "order_date": "2025-07-09 06:31:13",
+      "items": [
+        {
+          "product_id": "P0046",
+          "quantity": 1,
+          "unit_price": 361.03
+        },
+        {
+          "product_id": "P0003",
+          "quantity": 3,
+          "unit_price": 27.2
+        }
+      ],
+      "shipping_cost": 10.99,
+      "tax": 30.98,
+      "total_amount": 484.6,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0118",
+      "user_id": "U0044",
+      "order_date": "2025-09-09 18:52:25",
+      "items": [
+        {
+          "product_id": "P0015",
+          "quantity": 1,
+          "unit_price": 61.14
+        },
+        {
+          "product_id": "P0031",
+          "quantity": 1,
+          "unit_price": 298.97
+        },
+        {
+          "product_id": "P0018",
+          "quantity": 1,
+          "unit_price": 28.97
+        },
+        {
+          "product_id": "P0059",
+          "quantity": 2,
+          "unit_price": 411.0
+        }
+      ],
+      "shipping_cost": 7.8,
+      "tax": 84.78,
+      "total_amount": 1303.66,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0119",
+      "user_id": "U0008",
+      "order_date": "2025-07-17 08:03:17",
+      "items": [
+        {
+          "product_id": "P0070",
+          "quantity": 2,
+          "unit_price": 186.2
+        },
+        {
+          "product_id": "P0080",
+          "quantity": 3,
+          "unit_price": 435.48
+        },
+        {
+          "product_id": "P0032",
+          "quantity": 1,
+          "unit_price": 320.62
+        }
+      ],
+      "shipping_cost": 9.89,
+      "tax": 139.96,
+      "total_amount": 2149.31,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0120",
+      "user_id": "U0034",
+      "order_date": "2025-08-11 07:38:22",
+      "items": [
+        {
+          "product_id": "P0041",
+          "quantity": 1,
+          "unit_price": 471.19
+        },
+        {
+          "product_id": "P0036",
+          "quantity": 3,
+          "unit_price": 318.93
+        },
+        {
+          "product_id": "P0099",
+          "quantity": 2,
+          "unit_price": 322.66
+        },
+        {
+          "product_id": "P0088",
+          "quantity": 1,
+          "unit_price": 315.78
+        }
+      ],
+      "shipping_cost": 3.73,
+      "tax": 167.24,
+      "total_amount": 2560.05,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0121",
+      "user_id": "U0004",
+      "order_date": "2025-07-10 03:55:39",
+      "items": [
+        {
+          "product_id": "P0071",
+          "quantity": 2,
+          "unit_price": 71.03
+        },
+        {
+          "product_id": "P0076",
+          "quantity": 2,
+          "unit_price": 185.88
+        }
+      ],
+      "shipping_cost": 10.85,
+      "tax": 35.97,
+      "total_amount": 560.64,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0122",
+      "user_id": "U0014",
+      "order_date": "2025-08-08 19:03:07",
+      "items": [
+        {
+          "product_id": "P0070",
+          "quantity": 2,
+          "unit_price": 186.2
+        },
+        {
+          "product_id": "P0084",
+          "quantity": 2,
+          "unit_price": 317.4
+        },
+        {
+          "product_id": "P0050",
+          "quantity": 3,
+          "unit_price": 344.19
+        }
+      ],
+      "shipping_cost": 8.0,
+      "tax": 142.78,
+      "total_amount": 2190.55,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0123",
+      "user_id": "U0011",
+      "order_date": "2025-04-30 23:37:05",
+      "items": [
+        {
+          "product_id": "P0019",
+          "quantity": 3,
+          "unit_price": 40.54
+        }
+      ],
+      "shipping_cost": 7.41,
+      "tax": 8.51,
+      "total_amount": 137.54,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0124",
+      "user_id": "U0023",
+      "order_date": "2025-03-26 22:59:15",
+      "items": [
+        {
+          "product_id": "P0096",
+          "quantity": 3,
+          "unit_price": 280.98
+        },
+        {
+          "product_id": "P0001",
+          "quantity": 1,
+          "unit_price": 131.15
+        }
+      ],
+      "shipping_cost": 10.97,
+      "tax": 68.19,
+      "total_amount": 1053.25,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0125",
+      "user_id": "U0044",
+      "order_date": "2025-06-27 00:50:48",
+      "items": [
+        {
+          "product_id": "P0034",
+          "quantity": 2,
+          "unit_price": 13.66
+        },
+        {
+          "product_id": "P0090",
+          "quantity": 2,
+          "unit_price": 99.05
+        }
+      ],
+      "shipping_cost": 8.8,
+      "tax": 15.78,
+      "total_amount": 250.0,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0126",
+      "user_id": "U0011",
+      "order_date": "2025-08-17 04:42:06",
+      "items": [
+        {
+          "product_id": "P0064",
+          "quantity": 2,
+          "unit_price": 427.41
+        }
+      ],
+      "shipping_cost": 7.29,
+      "tax": 59.84,
+      "total_amount": 921.95,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0127",
+      "user_id": "U0032",
+      "order_date": "2025-01-05 05:28:58",
+      "items": [
+        {
+          "product_id": "P0046",
+          "quantity": 1,
+          "unit_price": 361.03
+        },
+        {
+          "product_id": "P0089",
+          "quantity": 2,
+          "unit_price": 447.54
+        }
+      ],
+      "shipping_cost": 10.02,
+      "tax": 87.93,
+      "total_amount": 1354.06,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0128",
+      "user_id": "U0034",
+      "order_date": "2025-03-18 01:19:47",
+      "items": [
+        {
+          "product_id": "P0049",
+          "quantity": 1,
+          "unit_price": 27.52
+        },
+        {
+          "product_id": "P0039",
+          "quantity": 1,
+          "unit_price": 97.92
+        },
+        {
+          "product_id": "P0085",
+          "quantity": 3,
+          "unit_price": 258.5
+        },
+        {
+          "product_id": "P0036",
+          "quantity": 3,
+          "unit_price": 318.93
+        }
+      ],
+      "shipping_cost": 3.73,
+      "tax": 130.04,
+      "total_amount": 1991.5,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0129",
+      "user_id": "U0029",
+      "order_date": "2025-03-04 01:48:41",
+      "items": [
+        {
+          "product_id": "P0012",
+          "quantity": 3,
+          "unit_price": 251.69
+        }
+      ],
+      "shipping_cost": 3.02,
+      "tax": 52.85,
+      "total_amount": 810.94,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0130",
+      "user_id": "U0016",
+      "order_date": "2025-07-30 05:46:55",
+      "items": [
+        {
+          "product_id": "P0077",
+          "quantity": 1,
+          "unit_price": 384.23
+        },
+        {
+          "product_id": "P0020",
+          "quantity": 1,
+          "unit_price": 38.02
+        },
+        {
+          "product_id": "P0066",
+          "quantity": 1,
+          "unit_price": 343.98
+        },
+        {
+          "product_id": "P0004",
+          "quantity": 3,
+          "unit_price": 254.64
+        }
+      ],
+      "shipping_cost": 8.28,
+      "tax": 107.11,
+      "total_amount": 1645.54,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0131",
+      "user_id": "U0048",
+      "order_date": "2025-06-06 06:16:04",
+      "items": [
+        {
+          "product_id": "P0036",
+          "quantity": 3,
+          "unit_price": 318.93
+        },
+        {
+          "product_id": "P0010",
+          "quantity": 1,
+          "unit_price": 485.98
+        }
+      ],
+      "shipping_cost": 4.22,
+      "tax": 100.99,
+      "total_amount": 1547.98,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0132",
+      "user_id": "U0009",
+      "order_date": "2025-04-14 10:17:35",
+      "items": [
+        {
+          "product_id": "P0017",
+          "quantity": 2,
+          "unit_price": 300.37
+        }
+      ],
+      "shipping_cost": 10.05,
+      "tax": 42.05,
+      "total_amount": 652.84,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0133",
+      "user_id": "U0019",
+      "order_date": "2025-01-31 02:46:26",
+      "items": [
+        {
+          "product_id": "P0069",
+          "quantity": 2,
+          "unit_price": 393.01
+        }
+      ],
+      "shipping_cost": 3.66,
+      "tax": 55.02,
+      "total_amount": 844.7,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0134",
+      "user_id": "U0047",
+      "order_date": "2025-05-29 02:07:43",
+      "items": [
+        {
+          "product_id": "P0040",
+          "quantity": 2,
+          "unit_price": 47.14
+        }
+      ],
+      "shipping_cost": 7.87,
+      "tax": 6.6,
+      "total_amount": 108.75,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0135",
+      "user_id": "U0014",
+      "order_date": "2025-09-11 02:15:25",
+      "items": [
+        {
+          "product_id": "P0021",
+          "quantity": 3,
+          "unit_price": 355.46
+        },
+        {
+          "product_id": "P0057",
+          "quantity": 2,
+          "unit_price": 138.02
+        },
+        {
+          "product_id": "P0087",
+          "quantity": 2,
+          "unit_price": 336.62
+        }
+      ],
+      "shipping_cost": 9.01,
+      "tax": 141.1,
+      "total_amount": 2165.77,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0136",
+      "user_id": "U0002",
+      "order_date": "2025-04-11 16:11:58",
+      "items": [
+        {
+          "product_id": "P0091",
+          "quantity": 2,
+          "unit_price": 248.23
+        },
+        {
+          "product_id": "P0089",
+          "quantity": 3,
+          "unit_price": 447.54
+        },
+        {
+          "product_id": "P0088",
+          "quantity": 3,
+          "unit_price": 315.78
+        }
+      ],
+      "shipping_cost": 9.09,
+      "tax": 195.05,
+      "total_amount": 2990.56,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0137",
+      "user_id": "U0039",
+      "order_date": "2025-02-04 12:39:23",
+      "items": [
+        {
+          "product_id": "P0026",
+          "quantity": 1,
+          "unit_price": 119.17
+        }
+      ],
+      "shipping_cost": 4.96,
+      "tax": 8.34,
+      "total_amount": 132.47,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0138",
+      "user_id": "U0043",
+      "order_date": "2025-06-14 08:19:33",
+      "items": [
+        {
+          "product_id": "P0069",
+          "quantity": 3,
+          "unit_price": 393.01
+        },
+        {
+          "product_id": "P0076",
+          "quantity": 1,
+          "unit_price": 185.88
+        },
+        {
+          "product_id": "P0076",
+          "quantity": 2,
+          "unit_price": 185.88
+        }
+      ],
+      "shipping_cost": 13.66,
+      "tax": 121.57,
+      "total_amount": 1871.9,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0139",
+      "user_id": "U0027",
+      "order_date": "2025-02-15 16:47:32",
+      "items": [
+        {
+          "product_id": "P0018",
+          "quantity": 2,
+          "unit_price": 28.97
+        }
+      ],
+      "shipping_cost": 13.3,
+      "tax": 4.06,
+      "total_amount": 75.3,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0140",
+      "user_id": "U0013",
+      "order_date": "2025-06-07 15:00:26",
+      "items": [
+        {
+          "product_id": "P0072",
+          "quantity": 2,
+          "unit_price": 182.5
+        },
+        {
+          "product_id": "P0049",
+          "quantity": 2,
+          "unit_price": 27.52
+        },
+        {
+          "product_id": "P0028",
+          "quantity": 2,
+          "unit_price": 288.14
+        }
+      ],
+      "shipping_cost": 11.79,
+      "tax": 69.74,
+      "total_amount": 1077.85,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0141",
+      "user_id": "U0049",
+      "order_date": "2025-04-16 06:43:54",
+      "items": [
+        {
+          "product_id": "P0090",
+          "quantity": 1,
+          "unit_price": 99.05
+        },
+        {
+          "product_id": "P0073",
+          "quantity": 1,
+          "unit_price": 262.06
+        },
+        {
+          "product_id": "P0070",
+          "quantity": 1,
+          "unit_price": 186.2
+        }
+      ],
+      "shipping_cost": 14.34,
+      "tax": 38.31,
+      "total_amount": 599.96,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0142",
+      "user_id": "U0039",
+      "order_date": "2025-01-21 07:53:55",
+      "items": [
+        {
+          "product_id": "P0012",
+          "quantity": 3,
+          "unit_price": 251.69
+        },
+        {
+          "product_id": "P0026",
+          "quantity": 2,
+          "unit_price": 119.17
+        }
+      ],
+      "shipping_cost": 7.88,
+      "tax": 69.54,
+      "total_amount": 1070.83,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0143",
+      "user_id": "U0040",
+      "order_date": "2025-06-23 18:29:59",
+      "items": [
+        {
+          "product_id": "P0057",
+          "quantity": 1,
+          "unit_price": 138.02
+        },
+        {
+          "product_id": "P0036",
+          "quantity": 1,
+          "unit_price": 318.93
+        }
+      ],
+      "shipping_cost": 9.84,
+      "tax": 31.99,
+      "total_amount": 498.78,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0144",
+      "user_id": "U0029",
+      "order_date": "2025-08-04 17:09:34",
+      "items": [
+        {
+          "product_id": "P0098",
+          "quantity": 2,
+          "unit_price": 235.05
+        }
+      ],
+      "shipping_cost": 7.41,
+      "tax": 32.91,
+      "total_amount": 510.42,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0145",
+      "user_id": "U0007",
+      "order_date": "2025-01-03 22:11:18",
+      "items": [
+        {
+          "product_id": "P0077",
+          "quantity": 2,
+          "unit_price": 384.23
+        },
+        {
+          "product_id": "P0021",
+          "quantity": 2,
+          "unit_price": 355.46
+        }
+      ],
+      "shipping_cost": 12.95,
+      "tax": 103.56,
+      "total_amount": 1595.89,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0146",
+      "user_id": "U0047",
+      "order_date": "2025-07-27 19:45:09",
+      "items": [
+        {
+          "product_id": "P0014",
+          "quantity": 2,
+          "unit_price": 162.83
+        },
+        {
+          "product_id": "P0031",
+          "quantity": 2,
+          "unit_price": 298.97
+        },
+        {
+          "product_id": "P0035",
+          "quantity": 3,
+          "unit_price": 206.24
+        },
+        {
+          "product_id": "P0022",
+          "quantity": 2,
+          "unit_price": 74.89
+        }
+      ],
+      "shipping_cost": 9.66,
+      "tax": 118.45,
+      "total_amount": 1820.21,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0147",
+      "user_id": "U0040",
+      "order_date": "2025-08-07 18:30:08",
+      "items": [
+        {
+          "product_id": "P0017",
+          "quantity": 1,
+          "unit_price": 300.37
+        },
+        {
+          "product_id": "P0048",
+          "quantity": 1,
+          "unit_price": 304.39
+        },
+        {
+          "product_id": "P0038",
+          "quantity": 2,
+          "unit_price": 156.78
+        },
+        {
+          "product_id": "P0025",
+          "quantity": 1,
+          "unit_price": 316.31
+        }
+      ],
+      "shipping_cost": 9.85,
+      "tax": 86.42,
+      "total_amount": 1330.9,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0148",
+      "user_id": "U0014",
+      "order_date": "2025-01-23 20:24:01",
+      "items": [
+        {
+          "product_id": "P0054",
+          "quantity": 1,
+          "unit_price": 439.95
+        },
+        {
+          "product_id": "P0020",
+          "quantity": 3,
+          "unit_price": 38.02
+        }
+      ],
+      "shipping_cost": 11.53,
+      "tax": 38.78,
+      "total_amount": 604.32,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0149",
+      "user_id": "U0018",
+      "order_date": "2025-06-19 08:53:16",
+      "items": [
+        {
+          "product_id": "P0013",
+          "quantity": 1,
+          "unit_price": 187.29
+        },
+        {
+          "product_id": "P0063",
+          "quantity": 2,
+          "unit_price": 415.6
+        },
+        {
+          "product_id": "P0048",
+          "quantity": 2,
+          "unit_price": 304.39
+        }
+      ],
+      "shipping_cost": 10.74,
+      "tax": 113.91,
+      "total_amount": 1751.92,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0150",
+      "user_id": "U0038",
+      "order_date": "2025-02-26 11:43:22",
+      "items": [
+        {
+          "product_id": "P0015",
+          "quantity": 2,
+          "unit_price": 61.14
+        }
+      ],
+      "shipping_cost": 4.14,
+      "tax": 8.56,
+      "total_amount": 134.98,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0151",
+      "user_id": "U0036",
+      "order_date": "2025-03-08 21:02:40",
+      "items": [
+        {
+          "product_id": "P0034",
+          "quantity": 2,
+          "unit_price": 13.66
+        },
+        {
+          "product_id": "P0096",
+          "quantity": 1,
+          "unit_price": 280.98
+        },
+        {
+          "product_id": "P0096",
+          "quantity": 2,
+          "unit_price": 280.98
+        }
+      ],
+      "shipping_cost": 6.25,
+      "tax": 60.92,
+      "total_amount": 937.43,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0152",
+      "user_id": "U0004",
+      "order_date": "2025-04-19 13:50:56",
+      "items": [
+        {
+          "product_id": "P0080",
+          "quantity": 2,
+          "unit_price": 435.48
+        },
+        {
+          "product_id": "P0064",
+          "quantity": 2,
+          "unit_price": 427.41
+        },
+        {
+          "product_id": "P0051",
+          "quantity": 1,
+          "unit_price": 326.07
+        },
+        {
+          "product_id": "P0077",
+          "quantity": 2,
+          "unit_price": 384.23
+        }
+      ],
+      "shipping_cost": 4.12,
+      "tax": 197.42,
+      "total_amount": 3021.85,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0153",
+      "user_id": "U0002",
+      "order_date": "2025-03-31 21:13:46",
+      "items": [
+        {
+          "product_id": "P0070",
+          "quantity": 2,
+          "unit_price": 186.2
+        }
+      ],
+      "shipping_cost": 12.32,
+      "tax": 26.07,
+      "total_amount": 410.79,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0154",
+      "user_id": "U0023",
+      "order_date": "2025-05-31 15:02:06",
+      "items": [
+        {
+          "product_id": "P0088",
+          "quantity": 3,
+          "unit_price": 315.78
+        },
+        {
+          "product_id": "P0042",
+          "quantity": 3,
+          "unit_price": 45.5
+        }
+      ],
+      "shipping_cost": 8.23,
+      "tax": 75.87,
+      "total_amount": 1167.94,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0155",
+      "user_id": "U0005",
+      "order_date": "2025-06-29 02:11:57",
+      "items": [
+        {
+          "product_id": "P0080",
+          "quantity": 2,
+          "unit_price": 435.48
+        }
+      ],
+      "shipping_cost": 7.97,
+      "tax": 60.97,
+      "total_amount": 939.9,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0156",
+      "user_id": "U0038",
+      "order_date": "2025-08-30 18:31:21",
+      "items": [
+        {
+          "product_id": "P0097",
+          "quantity": 2,
+          "unit_price": 385.88
+        },
+        {
+          "product_id": "P0047",
+          "quantity": 2,
+          "unit_price": 82.71
+        },
+        {
+          "product_id": "P0088",
+          "quantity": 3,
+          "unit_price": 315.78
+        },
+        {
+          "product_id": "P0080",
+          "quantity": 1,
+          "unit_price": 435.48
+        }
+      ],
+      "shipping_cost": 10.95,
+      "tax": 162.4,
+      "total_amount": 2493.35,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0157",
+      "user_id": "U0024",
+      "order_date": "2025-03-28 06:55:14",
+      "items": [
+        {
+          "product_id": "P0031",
+          "quantity": 3,
+          "unit_price": 298.97
+        },
+        {
+          "product_id": "P0007",
+          "quantity": 1,
+          "unit_price": 26.26
+        },
+        {
+          "product_id": "P0090",
+          "quantity": 2,
+          "unit_price": 99.05
+        },
+        {
+          "product_id": "P0071",
+          "quantity": 1,
+          "unit_price": 71.03
+        }
+      ],
+      "shipping_cost": 9.97,
+      "tax": 83.46,
+      "total_amount": 1285.73,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0158",
+      "user_id": "U0021",
+      "order_date": "2025-06-11 12:57:19",
+      "items": [
+        {
+          "product_id": "P0094",
+          "quantity": 3,
+          "unit_price": 455.34
+        }
+      ],
+      "shipping_cost": 11.38,
+      "tax": 95.62,
+      "total_amount": 1473.02,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0159",
+      "user_id": "U0017",
+      "order_date": "2025-07-21 02:26:58",
+      "items": [
+        {
+          "product_id": "P0092",
+          "quantity": 2,
+          "unit_price": 314.55
+        }
+      ],
+      "shipping_cost": 12.12,
+      "tax": 44.04,
+      "total_amount": 685.26,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0160",
+      "user_id": "U0044",
+      "order_date": "2025-03-05 06:22:50",
+      "items": [
+        {
+          "product_id": "P0083",
+          "quantity": 1,
+          "unit_price": 372.24
+        },
+        {
+          "product_id": "P0057",
+          "quantity": 1,
+          "unit_price": 138.02
+        },
+        {
+          "product_id": "P0054",
+          "quantity": 2,
+          "unit_price": 439.95
+        }
+      ],
+      "shipping_cost": 13.7,
+      "tax": 97.31,
+      "total_amount": 1501.17,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0161",
+      "user_id": "U0039",
+      "order_date": "2025-05-09 11:03:56",
+      "items": [
+        {
+          "product_id": "P0095",
+          "quantity": 1,
+          "unit_price": 323.91
+        },
+        {
+          "product_id": "P0039",
+          "quantity": 1,
+          "unit_price": 97.92
+        },
+        {
+          "product_id": "P0014",
+          "quantity": 1,
+          "unit_price": 162.83
+        }
+      ],
+      "shipping_cost": 7.1,
+      "tax": 40.93,
+      "total_amount": 632.69,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0162",
+      "user_id": "U0050",
+      "order_date": "2025-02-18 16:58:34",
+      "items": [
+        {
+          "product_id": "P0071",
+          "quantity": 3,
+          "unit_price": 71.03
+        },
+        {
+          "product_id": "P0098",
+          "quantity": 1,
+          "unit_price": 235.05
+        }
+      ],
+      "shipping_cost": 13.17,
+      "tax": 31.37,
+      "total_amount": 492.68,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0163",
+      "user_id": "U0049",
+      "order_date": "2025-06-01 05:41:49",
+      "items": [
+        {
+          "product_id": "P0029",
+          "quantity": 2,
+          "unit_price": 269.29
+        },
+        {
+          "product_id": "P0028",
+          "quantity": 3,
+          "unit_price": 288.14
+        }
+      ],
+      "shipping_cost": 3.24,
+      "tax": 98.21,
+      "total_amount": 1504.45,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0164",
+      "user_id": "U0012",
+      "order_date": "2025-06-03 21:22:46",
+      "items": [
+        {
+          "product_id": "P0069",
+          "quantity": 3,
+          "unit_price": 393.01
+        },
+        {
+          "product_id": "P0084",
+          "quantity": 2,
+          "unit_price": 317.4
+        },
+        {
+          "product_id": "P0054",
+          "quantity": 3,
+          "unit_price": 439.95
+        }
+      ],
+      "shipping_cost": 5.94,
+      "tax": 219.36,
+      "total_amount": 3358.98,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0165",
+      "user_id": "U0040",
+      "order_date": "2025-01-16 22:05:57",
+      "items": [
+        {
+          "product_id": "P0085",
+          "quantity": 2,
+          "unit_price": 258.5
+        },
+        {
+          "product_id": "P0095",
+          "quantity": 2,
+          "unit_price": 323.91
+        }
+      ],
+      "shipping_cost": 5.75,
+      "tax": 81.54,
+      "total_amount": 1252.11,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0166",
+      "user_id": "U0007",
+      "order_date": "2025-03-01 11:27:57",
+      "items": [
+        {
+          "product_id": "P0064",
+          "quantity": 3,
+          "unit_price": 427.41
+        },
+        {
+          "product_id": "P0023",
+          "quantity": 1,
+          "unit_price": 229.85
+        },
+        {
+          "product_id": "P0079",
+          "quantity": 3,
+          "unit_price": 380.41
+        },
+        {
+          "product_id": "P0017",
+          "quantity": 2,
+          "unit_price": 300.37
+        }
+      ],
+      "shipping_cost": 3.97,
+      "tax": 227.78,
+      "total_amount": 3485.8,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0167",
+      "user_id": "U0016",
+      "order_date": "2025-08-07 00:54:21",
+      "items": [
+        {
+          "product_id": "P0079",
+          "quantity": 3,
+          "unit_price": 380.41
+        },
+        {
+          "product_id": "P0081",
+          "quantity": 3,
+          "unit_price": 53.17
+        },
+        {
+          "product_id": "P0068",
+          "quantity": 1,
+          "unit_price": 352.16
+        }
+      ],
+      "shipping_cost": 10.83,
+      "tax": 115.7,
+      "total_amount": 1779.43,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0168",
+      "user_id": "U0032",
+      "order_date": "2025-01-30 23:40:38",
+      "items": [
+        {
+          "product_id": "P0096",
+          "quantity": 1,
+          "unit_price": 280.98
+        }
+      ],
+      "shipping_cost": 9.47,
+      "tax": 19.67,
+      "total_amount": 310.12,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0169",
+      "user_id": "U0050",
+      "order_date": "2025-05-11 17:59:14",
+      "items": [
+        {
+          "product_id": "P0036",
+          "quantity": 1,
+          "unit_price": 318.93
+        },
+        {
+          "product_id": "P0084",
+          "quantity": 1,
+          "unit_price": 317.4
+        },
+        {
+          "product_id": "P0026",
+          "quantity": 3,
+          "unit_price": 119.17
+        },
+        {
+          "product_id": "P0090",
+          "quantity": 2,
+          "unit_price": 99.05
+        }
+      ],
+      "shipping_cost": 14.27,
+      "tax": 83.44,
+      "total_amount": 1289.65,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0170",
+      "user_id": "U0029",
+      "order_date": "2025-06-24 22:54:31",
+      "items": [
+        {
+          "product_id": "P0069",
+          "quantity": 2,
+          "unit_price": 393.01
+        },
+        {
+          "product_id": "P0039",
+          "quantity": 3,
+          "unit_price": 97.92
+        },
+        {
+          "product_id": "P0041",
+          "quantity": 3,
+          "unit_price": 471.19
+        },
+        {
+          "product_id": "P0047",
+          "quantity": 3,
+          "unit_price": 82.71
+        }
+      ],
+      "shipping_cost": 8.75,
+      "tax": 191.9,
+      "total_amount": 2942.13,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0171",
+      "user_id": "U0034",
+      "order_date": "2025-09-13 01:06:15",
+      "items": [
+        {
+          "product_id": "P0003",
+          "quantity": 1,
+          "unit_price": 27.2
+        }
+      ],
+      "shipping_cost": 7.9,
+      "tax": 1.9,
+      "total_amount": 37.0,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0172",
+      "user_id": "U0015",
+      "order_date": "2025-03-20 19:16:55",
+      "items": [
+        {
+          "product_id": "P0032",
+          "quantity": 3,
+          "unit_price": 320.62
+        }
+      ],
+      "shipping_cost": 12.98,
+      "tax": 67.33,
+      "total_amount": 1042.17,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0173",
+      "user_id": "U0010",
+      "order_date": "2025-05-31 10:05:52",
+      "items": [
+        {
+          "product_id": "P0009",
+          "quantity": 1,
+          "unit_price": 304.24
+        },
+        {
+          "product_id": "P0093",
+          "quantity": 3,
+          "unit_price": 391.82
+        },
+        {
+          "product_id": "P0003",
+          "quantity": 2,
+          "unit_price": 27.2
+        },
+        {
+          "product_id": "P0056",
+          "quantity": 1,
+          "unit_price": 450.4
+        }
+      ],
+      "shipping_cost": 5.67,
+      "tax": 138.92,
+      "total_amount": 2129.09,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0174",
+      "user_id": "U0033",
+      "order_date": "2025-05-19 15:50:21",
+      "items": [
+        {
+          "product_id": "P0022",
+          "quantity": 3,
+          "unit_price": 74.89
+        },
+        {
+          "product_id": "P0100",
+          "quantity": 3,
+          "unit_price": 227.27
+        }
+      ],
+      "shipping_cost": 9.14,
+      "tax": 63.45,
+      "total_amount": 979.07,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0175",
+      "user_id": "U0038",
+      "order_date": "2025-02-15 04:24:19",
+      "items": [
+        {
+          "product_id": "P0068",
+          "quantity": 2,
+          "unit_price": 352.16
+        },
+        {
+          "product_id": "P0097",
+          "quantity": 2,
+          "unit_price": 385.88
+        },
+        {
+          "product_id": "P0071",
+          "quantity": 1,
+          "unit_price": 71.03
+        }
+      ],
+      "shipping_cost": 7.22,
+      "tax": 108.3,
+      "total_amount": 1662.63,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0176",
+      "user_id": "U0004",
+      "order_date": "2025-04-03 15:33:06",
+      "items": [
+        {
+          "product_id": "P0034",
+          "quantity": 2,
+          "unit_price": 13.66
+        },
+        {
+          "product_id": "P0013",
+          "quantity": 1,
+          "unit_price": 187.29
+        },
+        {
+          "product_id": "P0041",
+          "quantity": 3,
+          "unit_price": 471.19
+        },
+        {
+          "product_id": "P0045",
+          "quantity": 2,
+          "unit_price": 29.56
+        }
+      ],
+      "shipping_cost": 12.82,
+      "tax": 118.11,
+      "total_amount": 1818.23,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0177",
+      "user_id": "U0002",
+      "order_date": "2025-02-09 03:00:51",
+      "items": [
+        {
+          "product_id": "P0069",
+          "quantity": 2,
+          "unit_price": 393.01
+        },
+        {
+          "product_id": "P0082",
+          "quantity": 3,
+          "unit_price": 342.09
+        },
+        {
+          "product_id": "P0033",
+          "quantity": 2,
+          "unit_price": 7.75
+        },
+        {
+          "product_id": "P0065",
+          "quantity": 2,
+          "unit_price": 44.39
+        }
+      ],
+      "shipping_cost": 6.9,
+      "tax": 134.16,
+      "total_amount": 2057.63,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0178",
+      "user_id": "U0026",
+      "order_date": "2025-04-04 02:05:22",
+      "items": [
+        {
+          "product_id": "P0064",
+          "quantity": 2,
+          "unit_price": 427.41
+        },
+        {
+          "product_id": "P0030",
+          "quantity": 1,
+          "unit_price": 190.35
+        },
+        {
+          "product_id": "P0067",
+          "quantity": 2,
+          "unit_price": 193.34
+        }
+      ],
+      "shipping_cost": 11.74,
+      "tax": 100.23,
+      "total_amount": 1543.82,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0179",
+      "user_id": "U0005",
+      "order_date": "2025-05-29 00:52:17",
+      "items": [
+        {
+          "product_id": "P0005",
+          "quantity": 1,
+          "unit_price": 391.08
+        },
+        {
+          "product_id": "P0047",
+          "quantity": 3,
+          "unit_price": 82.71
+        },
+        {
+          "product_id": "P0072",
+          "quantity": 3,
+          "unit_price": 182.5
+        },
+        {
+          "product_id": "P0028",
+          "quantity": 2,
+          "unit_price": 288.14
+        }
+      ],
+      "shipping_cost": 11.73,
+      "tax": 123.41,
+      "total_amount": 1898.13,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0180",
+      "user_id": "U0034",
+      "order_date": "2025-08-10 06:35:26",
+      "items": [
+        {
+          "product_id": "P0011",
+          "quantity": 2,
+          "unit_price": 308.48
+        }
+      ],
+      "shipping_cost": 13.85,
+      "tax": 43.19,
+      "total_amount": 674.0,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0181",
+      "user_id": "U0041",
+      "order_date": "2025-01-22 17:05:44",
+      "items": [
+        {
+          "product_id": "P0088",
+          "quantity": 3,
+          "unit_price": 315.78
+        },
+        {
+          "product_id": "P0014",
+          "quantity": 3,
+          "unit_price": 162.83
+        }
+      ],
+      "shipping_cost": 6.84,
+      "tax": 100.51,
+      "total_amount": 1543.18,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0182",
+      "user_id": "U0019",
+      "order_date": "2025-09-14 09:32:10",
+      "items": [
+        {
+          "product_id": "P0001",
+          "quantity": 3,
+          "unit_price": 131.15
+        },
+        {
+          "product_id": "P0013",
+          "quantity": 2,
+          "unit_price": 187.29
+        },
+        {
+          "product_id": "P0032",
+          "quantity": 2,
+          "unit_price": 320.62
+        },
+        {
+          "product_id": "P0071",
+          "quantity": 3,
+          "unit_price": 71.03
+        }
+      ],
+      "shipping_cost": 13.76,
+      "tax": 113.57,
+      "total_amount": 1749.69,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0183",
+      "user_id": "U0040",
+      "order_date": "2025-04-29 21:29:07",
+      "items": [
+        {
+          "product_id": "P0005",
+          "quantity": 3,
+          "unit_price": 391.08
+        },
+        {
+          "product_id": "P0099",
+          "quantity": 2,
+          "unit_price": 322.66
+        },
+        {
+          "product_id": "P0041",
+          "quantity": 1,
+          "unit_price": 471.19
+        },
+        {
+          "product_id": "P0024",
+          "quantity": 3,
+          "unit_price": 438.26
+        }
+      ],
+      "shipping_cost": 5.63,
+      "tax": 252.32,
+      "total_amount": 3862.48,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0184",
+      "user_id": "U0008",
+      "order_date": "2025-08-04 19:13:09",
+      "items": [
+        {
+          "product_id": "P0058",
+          "quantity": 2,
+          "unit_price": 273.24
+        }
+      ],
+      "shipping_cost": 3.64,
+      "tax": 38.25,
+      "total_amount": 588.37,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0185",
+      "user_id": "U0042",
+      "order_date": "2025-06-18 13:17:49",
+      "items": [
+        {
+          "product_id": "P0051",
+          "quantity": 3,
+          "unit_price": 326.07
+        },
+        {
+          "product_id": "P0024",
+          "quantity": 2,
+          "unit_price": 438.26
+        }
+      ],
+      "shipping_cost": 14.72,
+      "tax": 129.83,
+      "total_amount": 1999.28,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0186",
+      "user_id": "U0028",
+      "order_date": "2025-06-28 02:28:13",
+      "items": [
+        {
+          "product_id": "P0056",
+          "quantity": 1,
+          "unit_price": 450.4
+        },
+        {
+          "product_id": "P0050",
+          "quantity": 3,
+          "unit_price": 344.19
+        },
+        {
+          "product_id": "P0001",
+          "quantity": 2,
+          "unit_price": 131.15
+        }
+      ],
+      "shipping_cost": 13.37,
+      "tax": 122.17,
+      "total_amount": 1880.81,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0187",
+      "user_id": "U0014",
+      "order_date": "2025-01-22 00:37:32",
+      "items": [
+        {
+          "product_id": "P0054",
+          "quantity": 2,
+          "unit_price": 439.95
+        },
+        {
+          "product_id": "P0030",
+          "quantity": 2,
+          "unit_price": 190.35
+        },
+        {
+          "product_id": "P0073",
+          "quantity": 3,
+          "unit_price": 262.06
+        },
+        {
+          "product_id": "P0053",
+          "quantity": 1,
+          "unit_price": 327.24
+        }
+      ],
+      "shipping_cost": 13.92,
+      "tax": 166.18,
+      "total_amount": 2554.12,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0188",
+      "user_id": "U0043",
+      "order_date": "2025-06-22 02:06:36",
+      "items": [
+        {
+          "product_id": "P0053",
+          "quantity": 2,
+          "unit_price": 327.24
+        },
+        {
+          "product_id": "P0055",
+          "quantity": 2,
+          "unit_price": 310.51
+        },
+        {
+          "product_id": "P0050",
+          "quantity": 1,
+          "unit_price": 344.19
+        }
+      ],
+      "shipping_cost": 14.55,
+      "tax": 113.38,
+      "total_amount": 1747.62,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0189",
+      "user_id": "U0034",
+      "order_date": "2025-09-05 04:13:46",
+      "items": [
+        {
+          "product_id": "P0030",
+          "quantity": 3,
+          "unit_price": 190.35
+        },
+        {
+          "product_id": "P0030",
+          "quantity": 2,
+          "unit_price": 190.35
+        },
+        {
+          "product_id": "P0044",
+          "quantity": 1,
+          "unit_price": 481.05
+        },
+        {
+          "product_id": "P0003",
+          "quantity": 2,
+          "unit_price": 27.2
+        }
+      ],
+      "shipping_cost": 9.03,
+      "tax": 104.1,
+      "total_amount": 1600.33,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0190",
+      "user_id": "U0050",
+      "order_date": "2025-06-28 18:47:26",
+      "items": [
+        {
+          "product_id": "P0062",
+          "quantity": 1,
+          "unit_price": 267.12
+        },
+        {
+          "product_id": "P0024",
+          "quantity": 3,
+          "unit_price": 438.26
+        },
+        {
+          "product_id": "P0079",
+          "quantity": 3,
+          "unit_price": 380.41
+        },
+        {
+          "product_id": "P0039",
+          "quantity": 1,
+          "unit_price": 97.92
+        }
+      ],
+      "shipping_cost": 4.03,
+      "tax": 197.47,
+      "total_amount": 3022.55,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0191",
+      "user_id": "U0050",
+      "order_date": "2025-02-25 03:32:36",
+      "items": [
+        {
+          "product_id": "P0076",
+          "quantity": 3,
+          "unit_price": 185.88
+        },
+        {
+          "product_id": "P0021",
+          "quantity": 3,
+          "unit_price": 355.46
+        },
+        {
+          "product_id": "P0049",
+          "quantity": 2,
+          "unit_price": 27.52
+        },
+        {
+          "product_id": "P0091",
+          "quantity": 3,
+          "unit_price": 248.23
+        }
+      ],
+      "shipping_cost": 14.99,
+      "tax": 169.66,
+      "total_amount": 2608.4,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0192",
+      "user_id": "U0028",
+      "order_date": "2025-05-21 21:46:43",
+      "items": [
+        {
+          "product_id": "P0066",
+          "quantity": 3,
+          "unit_price": 343.98
+        }
+      ],
+      "shipping_cost": 3.38,
+      "tax": 72.24,
+      "total_amount": 1107.56,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0193",
+      "user_id": "U0003",
+      "order_date": "2025-05-23 08:25:26",
+      "items": [
+        {
+          "product_id": "P0006",
+          "quantity": 1,
+          "unit_price": 175.11
+        }
+      ],
+      "shipping_cost": 12.11,
+      "tax": 12.26,
+      "total_amount": 199.48,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0194",
+      "user_id": "U0037",
+      "order_date": "2025-08-24 18:29:34",
+      "items": [
+        {
+          "product_id": "P0011",
+          "quantity": 3,
+          "unit_price": 308.48
+        },
+        {
+          "product_id": "P0070",
+          "quantity": 2,
+          "unit_price": 186.2
+        }
+      ],
+      "shipping_cost": 9.78,
+      "tax": 90.85,
+      "total_amount": 1398.47,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0195",
+      "user_id": "U0049",
+      "order_date": "2025-06-03 11:06:32",
+      "items": [
+        {
+          "product_id": "P0026",
+          "quantity": 2,
+          "unit_price": 119.17
+        }
+      ],
+      "shipping_cost": 10.56,
+      "tax": 16.68,
+      "total_amount": 265.58,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0196",
+      "user_id": "U0014",
+      "order_date": "2025-06-12 10:46:17",
+      "items": [
+        {
+          "product_id": "P0064",
+          "quantity": 3,
+          "unit_price": 427.41
+        },
+        {
+          "product_id": "P0019",
+          "quantity": 1,
+          "unit_price": 40.54
+        },
+        {
+          "product_id": "P0052",
+          "quantity": 3,
+          "unit_price": 204.32
+        }
+      ],
+      "shipping_cost": 12.29,
+      "tax": 135.5,
+      "total_amount": 2083.52,
+      "status": "shipped"
+    },
+    {
+      "order_id": "O0197",
+      "user_id": "U0021",
+      "order_date": "2025-04-09 06:29:29",
+      "items": [
+        {
+          "product_id": "P0040",
+          "quantity": 3,
+          "unit_price": 47.14
+        },
+        {
+          "product_id": "P0029",
+          "quantity": 1,
+          "unit_price": 269.29
+        },
+        {
+          "product_id": "P0022",
+          "quantity": 1,
+          "unit_price": 74.89
+        },
+        {
+          "product_id": "P0098",
+          "quantity": 3,
+          "unit_price": 235.05
+        }
+      ],
+      "shipping_cost": 3.22,
+      "tax": 83.35,
+      "total_amount": 1277.32,
+      "status": "pending"
+    },
+    {
+      "order_id": "O0198",
+      "user_id": "U0006",
+      "order_date": "2025-03-28 04:09:39",
+      "items": [
+        {
+          "product_id": "P0050",
+          "quantity": 3,
+          "unit_price": 344.19
+        },
+        {
+          "product_id": "P0035",
+          "quantity": 2,
+          "unit_price": 206.24
+        },
+        {
+          "product_id": "P0060",
+          "quantity": 3,
+          "unit_price": 491.79
+        }
+      ],
+      "shipping_cost": 12.55,
+      "tax": 204.43,
+      "total_amount": 3137.4,
+      "status": "cancelled"
+    },
+    {
+      "order_id": "O0199",
+      "user_id": "U0001",
+      "order_date": "2025-03-05 19:33:27",
+      "items": [
+        {
+          "product_id": "P0081",
+          "quantity": 3,
+          "unit_price": 53.17
+        },
+        {
+          "product_id": "P0010",
+          "quantity": 3,
+          "unit_price": 485.98
+        }
+      ],
+      "shipping_cost": 7.06,
+      "tax": 113.22,
+      "total_amount": 1737.73,
+      "status": "delivered"
+    },
+    {
+      "order_id": "O0200",
+      "user_id": "U0015",
+      "order_date": "2025-01-12 21:11:11",
+      "items": [
+        {
+          "product_id": "P0038",
+          "quantity": 1,
+          "unit_price": 156.78
+        },
+        {
+          "product_id": "P0049",
+          "quantity": 1,
+          "unit_price": 27.52
+        }
+      ],
+      "shipping_cost": 8.9,
+      "tax": 12.9,
+      "total_amount": 206.1,
+      "status": "shipped"
+    }
+  ]
+}
